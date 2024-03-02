@@ -28,7 +28,7 @@ My main research interests include:
 **Email:** fanzhang@gatech.edu **or** zfkarl1998@gmail.com
 
 <h1 id='news'>News</h1>
-- *2022.04*: One paper is accepted by **CVPR 2024** (First Author).  
+- *2024.02*: One paper is accepted by **CVPR 2024** (First Author).  
 
 <h1 id='publications'>Selected Publications</h1>
 
