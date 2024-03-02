@@ -17,42 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm currently a M.S. student at [Georgia Institute of Technology, Shenzhen Campus](https://www.shenzhen.gatech.edu/). I received my B.S. degree from [Soochow University](https://www.suda.edu.cn/), in 2022.  
+My main research interests include:  
+* **Deep Learning**: Representation Learning, Multimodal Learning
+* **AI for Science**: Bioinformatics, Single-cell Data Analysis
+* **AI Applications**: Image Retrieval, Affective Computing
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+<h1 id='news'>News</h1>
+- *2022.04*: One paper is accepted by **CVPR 2024** (First Author).  
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<h1 id='publications'>Selected Publications</h1>
 
-# 📝 Publications 
+For **full** publications, please refer to [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+[Fine-grained Prototypical Voting with Heterogeneous Mixup for Semi-supervised 2D-3D Cross-modal Retrieval](https://zfkarl.github.io)
+**Fan Zhang**, Xian-Sheng Hua, Chong Chen, Xiao Luo  
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*  
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[MIMIC: Mask Image Pre-training with Mix Contrastive Fine-tuning for Facial Expression Recognition](https://arxiv.org/pdf/2401.07245.pdf)
+**Fan Zhang**, Xiaobao Guo, Xiaojiang Peng, Alex Kot  
+*arXiv preprint arXiv:2401.07245*   
+</div>
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+* [3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework](https://arxiv.org/pdf/2401.07251.pdf)  
+**Fan Zhang**, Shuyi Mao, Qing Li, Xiaojiang Peng  
+*arXiv preprint arXiv:2401.07251*  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<h1 id='experience'>Experience</h1>
+
+* 2022.8 - Present: Visiting Student at Shenzhen Technology University
+  * Research Area: Affective Computing
+  * Supervisor: [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)
+
+<h1 id='services'>Academic Services</h1>
+
+### Journal and Conference Reviewer
+* ACM MM 2024, KDD 2024, ACL Rolling Review 2023
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=6CpATrOuYGqNVjZ-PkKnhj90KFjA04Da2pnJoYcKFSU&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
