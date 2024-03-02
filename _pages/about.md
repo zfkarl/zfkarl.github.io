@@ -46,7 +46,7 @@ For **full** publications, please refer to [Google Scholar](https://scholar.goog
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/MIMIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MIMIC: Mask Image Pre-training with Mix Contrastive Fine-tuning for Facial Expression Recognition](https://arxiv.org/pdf/2401.07245.pdf)  
@@ -60,10 +60,10 @@ For **full** publications, please refer to [Google Scholar](https://scholar.goog
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/DCPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-* [3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework](https://arxiv.org/pdf/2401.07251.pdf)
+[3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework](https://arxiv.org/pdf/2401.07251.pdf)
   
 **Fan Zhang**, Shuyi Mao, Qing Li, Xiaojiang Peng
   
