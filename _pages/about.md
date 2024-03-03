@@ -23,9 +23,9 @@ My main research interests include:
 * **AI for Science**: Bioinformatics, Single-cell Data Analysis
 * **AI Applications**: Image Retrieval, Affective Computing
 
-<span style="color:red;">I am searching for a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
-
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
+
+<span style="color:red;">I am searching for a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
 <h1 id='news'>News</h1>
 - *2024.02*: One paper is accepted by **CVPR 2024** (First Author).  
