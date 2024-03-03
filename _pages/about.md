@@ -41,9 +41,9 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 **Fan Zhang**, Xian-Sheng Hua, Chong Chen, Xiao Luo  
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024  
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*  
 
-**CCF Rank A**  
+<span style="color:red;">(CCF Rank A)</span>  
 </div>
 </div>
 
