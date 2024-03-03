@@ -32,7 +32,7 @@ My main research interests include:
 
 <h1 id='publications'>Selected Publications</h1>
 
-For **full** publications, please refer to [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
+For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,8 +41,9 @@ For **full** publications, please refer to [Google Scholar](https://scholar.goog
 
 **Fan Zhang**, Xian-Sheng Hua, Chong Chen, Xiao Luo  
 
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024  
 
+**CCF Rank A**  
 </div>
 </div>
 
