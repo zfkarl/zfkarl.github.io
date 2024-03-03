@@ -48,7 +48,7 @@ For **full** publications, please refer to [Google Scholar](https://scholar.goog
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/MIMIC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/MIMIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MIMIC: Mask Image Pre-training with Mix Contrastive Fine-tuning for Facial Expression Recognition](https://arxiv.org/pdf/2401.07245.pdf)  
@@ -62,7 +62,7 @@ For **full** publications, please refer to [Google Scholar](https://scholar.goog
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/DCPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/DCPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework](https://arxiv.org/pdf/2401.07251.pdf)
@@ -78,8 +78,8 @@ For **full** publications, please refer to [Google Scholar](https://scholar.goog
 <h1 id='experience'>Experience</h1>
 
 * 2022.8 - Present: Visiting Student at Shenzhen Technology University
-  * Research Area: Affective Computing
-  * Supervisor: [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)
+  * Research Topic: Affective Computing
+  * Advisor: [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)
 
 <h1 id='services'>Academic Services</h1>
 
