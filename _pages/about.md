@@ -84,8 +84,8 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='services'>Academic Services</h1>
 
-### Journal and Conference Reviewer
-* ACM MM 2024, KDD 2024, ACL Rolling Review 2023
+### Conference Reviewer
+* ACM MM 2024, KDD 2024, ACL Rolling Review 2023  
 
-
-
+### Journal Reviewer
+* PLOS ONE
