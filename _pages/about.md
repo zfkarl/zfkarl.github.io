@@ -28,11 +28,27 @@ My main research interests include:
 <span style="color:red;">I am searching for a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
 <h1 id='news'>News</h1>
+- *2024.03*: One paper is accepted by **NAACL 2024** (First Author). 
 - *2024.02*: One paper is accepted by **CVPR 2024** (First Author).  
 
 <h1 id='publications'>Selected Publications</h1>
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/NAACL24_DEMO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DEMO: A Statistical Perspective for Efficient Image-Text Matching](https://zfkarl.github.io)  
+
+**Fan Zhang**, Xian-Sheng Hua, Chong Chen, Xiao Luo  
+
+*North American Chapter of the Association for Computational Linguistics (NAACL), 2024*  
+
+<span style="color:red;">(CCF Rank B)</span>  
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
