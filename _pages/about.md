@@ -20,8 +20,8 @@ redirect_from:
 I'm currently a M.S. student at [Georgia Institute of Technology, Shenzhen Campus](https://www.shenzhen.gatech.edu/). I received my B.S. degree from [Soochow University](https://www.suda.edu.cn/), in 2022.  
 My main research interests include:  
 * **Deep Learning**: Representation Learning, Multimodal Learning
-* **AI for Science**: Bioinformatics, Single-cell Data Analysis
-* **AI Applications**: Image Retrieval, Affective Computing
+* **AI Applications**: Information Retrieval, Affective Computing
+* **AI for Science**: AI for Biology, Bioinformatics
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
