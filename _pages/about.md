@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm currently a M.S. student at [Georgia Institute of Technology, Shenzhen Campus](https://www.shenzhen.gatech.edu/). I received my B.S. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am very fortunate to collaborate with [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).   
-It’s still too early for me to clearly position my research direction. Currently, I am focusing on:  
+It’s still too early for me to clearly position my research direction. Recently, I am focusing on:  
 * **Machine Learning and Data Mining**: Representation Learning, Transfer Learning, Information Retrieval
 * **AI for Science**: AI for Natural Science, Computational Biology
 
