@@ -35,7 +35,7 @@ It’s still too early for me to clearly position my research direction. Recentl
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TIP_FATE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FATE: Learning Effective Binary Descriptors with Group Fairness](https://zfkarl.github.io)  
@@ -44,7 +44,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 *IEEE Transactions on Image Processing (TIP), 2024*  
 
-<span style="color:red;">(CCF Rank A, JCR Q1)</span>  
+<span style="color:red;">(CCF Rank A, JCR Q1, IF 10.6)</span>  
 </div>
 </div>
 
