@@ -81,7 +81,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='experience'>Experience</h1>
 
-* 2022.8 - Present: Visiting Student at Shenzhen Technology University
+* 2022.8 - 2024.4: Visiting Student at Shenzhen Technology University
   * Research Topic: Affective Computing
   * Advisor: [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)
 
