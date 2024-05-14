@@ -27,12 +27,28 @@ It’s still too early for me to clearly position my research direction. Recentl
 <span style="color:red;">I am searching for a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
 <h1 id='news'>News</h1>
+- *2024.05*: One paper is accepted by **TIP 2024** (First Author). 
 - *2024.03*: One paper is accepted by **NAACL 2024** (First Author). 
 - *2024.02*: One paper is accepted by **CVPR 2024** (First Author).  
 
 <h1 id='publications'>Selected Publications</h1>
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FATE: Learning Effective Binary Descriptors with Group Fairness](https://zfkarl.github.io)  
+
+**Fan Zhang**, Chong Chen, Xian-Sheng Hua, Xiao Luo  
+
+*IEEE Transactions on Image Processing (TIP), 2024*  
+
+<span style="color:red;">(CCF Rank A, JCR Q1)</span>  
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/NAACL24_DEMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,34 +75,6 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*  
 
 <span style="color:red;">(CCF Rank A)</span>  
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/MIMIC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MIMIC: Mask Image Pre-training with Mix Contrastive Fine-tuning for Facial Expression Recognition](https://arxiv.org/pdf/2401.07245.pdf)  
-
-**Fan Zhang**, Xiaobao Guo, Xiaojiang Peng, Alex Kot  
-
-*arXiv preprint arXiv:2401.07245*   
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/DCPT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework](https://arxiv.org/pdf/2401.07251.pdf)
-  
-**Fan Zhang**, Shuyi Mao, Qing Li, Xiaojiang Peng
-  
-*arXiv preprint arXiv:2401.07251*  
-
 </div>
 </div>
 
