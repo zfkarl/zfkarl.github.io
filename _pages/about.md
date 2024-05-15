@@ -45,7 +45,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 *IEEE Transactions on Image Processing (TIP), 2024*  
 
-<span style="color:red;">(CCF Rank A, JCR Q1, IF 10.6)</span>  
+<span style="color:red;">*(CCF Rank A, JCR Q1, IF=10.6)*</span>  
 </div>
 </div>
 
@@ -60,7 +60,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 *North American Chapter of the Association for Computational Linguistics (NAACL), 2024*  
 
-<span style="color:red;">(CCF Rank B)</span>  
+<span style="color:red;">*(CCF Rank B)*</span>  
 </div>
 </div>
 
@@ -75,7 +75,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*  
 
-<span style="color:red;">(CCF Rank A)</span>  
+<span style="color:red;">*(CCF Rank A)*</span>  
 </div>
 </div>
 
