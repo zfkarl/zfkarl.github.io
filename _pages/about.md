@@ -25,7 +25,7 @@ It’s still too early for me to clearly position my research direction. Recentl
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
-<span style="color:red;">I am searching for a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
+<span style="color:red;">I am seeking a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
 <h1 id='news'>News</h1>
 - *2024.05*: One paper is accepted by **TIP 2024** (First Author). 
