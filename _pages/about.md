@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a M.S. student at [Georgia Institute of Technology, Shenzhen Campus](https://www.shenzhen.gatech.edu/). I received my B.S. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am very fortunate to collaborate with [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
+I'm currently a M.S. student at [Georgia Institute of Technology, Shenzhen Campus](https://www.shenzhen.gatech.edu/). I received my B.S. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am very fortunate to work closely with [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
 
 It’s still too early for me to clearly position my research direction. Recently, I am focusing on:  
 * **Machine Learning and Data Mining**: Representation Learning, Transfer Learning, Information Retrieval
@@ -54,7 +54,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/NAACL24_DEMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DEMO: A Statistical Perspective for Efficient Image-Text Matching](https://zfkarl.github.io)  
+[DEMO: A Statistical Perspective for Efficient Image-Text Matching](https://arxiv.org/abs/2405.11496)  
 
 **Fan Zhang**, Xian-Sheng Hua, Chong Chen, Xiao Luo  
 
