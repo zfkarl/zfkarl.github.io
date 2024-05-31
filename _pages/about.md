@@ -54,7 +54,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/NAACL24_DEMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DEMO: A Statistical Perspective for Efficient Image-Text Matching](https://arxiv.org/abs/2405.11496)  
+[DEMO: A Statistical Perspective for Efficient Image-Text Matching](https://arxiv.org/pdf/2405.11496)  
 
 **Fan Zhang**, Xian-Sheng Hua, Chong Chen, Xiao Luo  
 
