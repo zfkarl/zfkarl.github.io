@@ -55,7 +55,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TIP_FATE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FATE: Learning Effective Binary Descriptors with Group Fairness](https://zfkarl.github.io)  
+[FATE: Learning Effective Binary Descriptors with Group Fairness](https://ieeexplore.ieee.org/document/10547662)  
 
 **Fan Zhang**, Chong Chen, Xian-Sheng Hua, Xiao Luo  
 
