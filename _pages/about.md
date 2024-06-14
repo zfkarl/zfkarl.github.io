@@ -40,7 +40,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI-HOPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HOPE: A Hierarchical Perspective for Semi-supervised 2D-3D Cross-Modal Retrieval](https://zfkarl.github.io)  
+[HOPE: A Hierarchical Perspective for Semi-supervised 2D-3D Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10553262)  
 
 **Fan Zhang**, Hang Zhou, Xian-Sheng Hua, Chong Chen, Xiao Luo  
 
@@ -55,7 +55,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TIP_FATE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FATE: Learning Effective Binary Descriptors with Group Fairness](https://ieeexplore.ieee.org/document/10547662?source=authoralert)  
+[FATE: Learning Effective Binary Descriptors with Group Fairness](https://ieeexplore.ieee.org/document/10547662)  
 
 **Fan Zhang**, Chong Chen, Xian-Sheng Hua, Xiao Luo  
 
@@ -85,7 +85,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fine-grained Prototypical Voting with Heterogeneous Mixup for Semi-supervised 2D-3D Cross-modal Retrieval](https://zfkarl.github.io)  
+[Fine-grained Prototypical Voting with Heterogeneous Mixup for Semi-supervised 2D-3D Cross-modal Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Fine-grained_Prototypical_Voting_with_Heterogeneous_Mixup_for_Semi-supervised_2D-3D_Cross-modal_CVPR_2024_paper.pdf)  
 
 **Fan Zhang**, Xian-Sheng Hua, Chong Chen, Xiao Luo  
 
