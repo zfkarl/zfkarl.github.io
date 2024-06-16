@@ -21,7 +21,7 @@ I'm currently a M.S. student at [Georgia Institute of Technology, Shenzhen Campu
 
 It’s still too early for me to clearly position my research direction. Recently, I am focusing on:  
 * **Machine Learning and Data Mining**: Representation Learning, Transfer Learning, Information Retrieval.
-* **AI for Science**: AI for Natural Science, Computational Biology.
+* **AI for Science**: LLM for Scientific Problems, Computational Biology.
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
@@ -100,7 +100,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 * 2023.5 - Now: Remote research intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
 
-* 2022.8 - 2024.4: Visiting student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
+* 2022.7 - 2024.4: Visiting student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
 
 <h1 id='services'>Academic Services</h1>
 
