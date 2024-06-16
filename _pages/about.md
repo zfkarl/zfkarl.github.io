@@ -20,8 +20,8 @@ redirect_from:
 I'm currently a M.S. student at [Georgia Institute of Technology, Shenzhen Campus](https://www.shenzhen.gatech.edu/). I received my B.S. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am very fortunate to work closely with [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
 
 It’s still too early for me to clearly position my research direction. Recently, I am focusing on:  
-* **Machine Learning and Data Mining**: Representation Learning, Transfer Learning, Information Retrieval
-* **AI for Science**: AI for Natural Science, Computational Biology
+* **Machine Learning and Data Mining**: Representation Learning, Transfer Learning, Information Retrieval.
+* **AI for Science**: AI for Natural Science, Computational Biology.
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
@@ -98,8 +98,9 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='experience'>Experience</h1>
 
-* 2022.8 - 2024.4: Visiting Student at Shenzhen Technology University
-  * Advisor: [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)
+* 2023.5 - Now: Remote research intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
+
+* 2022.8 - 2024.4: Visiting student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
 
 <h1 id='services'>Academic Services</h1>
 
