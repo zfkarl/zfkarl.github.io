@@ -28,10 +28,10 @@ It’s still too early for me to clearly position my research direction. Recentl
 <span style="color:red;">I am seeking a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
 <h1 id='news'>News</h1>
-- *2024.06*: One paper is accepted by **TPAMI 2024** (First Author). 
-- *2024.05*: One paper is accepted by **TIP 2024** (First Author). 
-- *2024.03*: One paper is accepted by **NAACL 2024** (First Author). 
-- *2024.02*: One paper is accepted by **CVPR 2024** (First Author).  
+- **2024.06**: One paper is accepted by **TPAMI 2024** (First Author). 
+- **2024.05**: One paper is accepted by **TIP 2024** (First Author). 
+- **2024.03**: One paper is accepted by **NAACL 2024** (First Author). 
+- **2024.02**: One paper is accepted by **CVPR 2024** (First Author).  
 
 <h1 id='publications'>Selected Publications</h1>
 
@@ -98,9 +98,9 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='experience'>Experience</h1>
 
-* **2023.5 - Now**: Remote research intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
+* **2023.05 - Now**: Remote research intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
 
-* **2022.7 - 2024.4**: Visiting student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
+* **2022.07 - 2024.04**: Visiting student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
 
 <h1 id='services'>Academic Services</h1>
 
