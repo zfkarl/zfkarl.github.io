@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fan Zhang"
-description              : "Master Student@GTSI. Focusing on Machine Learning and AI4Science."
+description              : "Focus on ML and AI4Science."
 repository               : "zfkarl/zfkarl.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "<center>Fan Zhang (章帆)</center>"
   avatar           : "images/wukong.jpg"
-  bio              : "<center>ECE@Georgia Tech</center>"
+  bio              : "<center>ECE M.S. Student@GaTech</center>"
   location         : "China"
   employer         :
   pubmed           : 
