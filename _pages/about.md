@@ -105,7 +105,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <h1 id='services'>Academic Services</h1>
 
 ### Conference Reviewer
-* KDD 2025, NeurIPS 2024, CIKM 2024, ACM MM 2024, KDD 2024, ACL ARR 2023  
+* ICLR 2025, KDD 2025, NeurIPS 2024, CIKM 2024, ACM MM 2024, KDD 2024, ACL ARR 2023  
 
 ### Journal Reviewer
 * TNNLS, TMM, PLOS ONE
