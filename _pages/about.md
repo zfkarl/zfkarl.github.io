@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a M.S. student at [Georgia Institute of Technology, Shenzhen Campus](https://www.shenzhen.gatech.edu/) and a research intern at [Tencent Jarvis Research Center](https://jarvislab.tencent.com/index-en.html). Previously, I received my B.E. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am very fortunate to work closely with [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
+I'm currently a M.S. student at [Georgia Institute of Technology, Shenzhen Campus](https://www.shenzhen.gatech.edu/) and a research intern at [Jarvis Research Center, Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). Previously, I received my B.E. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am very fortunate to work closely with [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
 
 My research interests are at the intersection of machine learning and real-world applications. Recently, I am focusing on:  
 * **Machine Learning and Data Mining**: Representation Learning, Transfer Learning, Information Retrieval.
@@ -28,7 +28,7 @@ My research interests are at the intersection of machine learning and real-world
 <span style="color:red;">I am seeking a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
 <h1 id='news'>News</h1>
-- **2024.08**: I start my internship at Jarvis Research Center, YouTu Lab, Tencent.
+- **2024.08**: I start my internship at Jarvis Research Center, Tencent YouTu Lab.
 - **2024.06**: One paper is accepted by **TPAMI 2024** (First Author). 
 - **2024.05**: One paper is accepted by **TIP 2024** (First Author). 
 - **2024.03**: One paper is accepted by **NAACL 2024** (First Author). 
@@ -99,7 +99,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='experience'>Experience</h1>
 
-* **2024.08 - Now**: Research Intern, Jarvis Research Center, YouTu Lab, Tencent.
+* **2024.08 - Now**: Research Intern, Jarvis Research Center, Tencent YouTu Lab.
   
 * **2023.05 - Now**: Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
 
