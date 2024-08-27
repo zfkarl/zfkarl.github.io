@@ -99,7 +99,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='experience'>Experience</h1>
 
-* 2024.08 - Present: Research Intern, [Jarvis Research Center, Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html).
+* 2024.08 - Present: Research Intern, at [Jarvis Research Center, Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html).
   
 * 2023.05 - Present: Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
 
@@ -111,4 +111,4 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 * ICLR 2025, KDD 2025, NeurIPS 2024, CIKM 2024, ACM MM 2024, KDD 2024, ACL ARR 2023  
 
 ### Journal Reviewer
-* TNNLS, TMM, PLOS ONE
+* IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, PLOS ONE
