@@ -28,11 +28,11 @@ My research interests are at the intersection of machine learning and real-world
 <span style="color:red;">I am seeking a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
 <h1 id='news'>News</h1>
-- 2024.08: I start my internship at Tencent YouTu Lab.
-- 2024.06: One paper is accepted by **TPAMI 2024** (First Author). 
-- 2024.05: One paper is accepted by **TIP 2024** (First Author). 
-- 2024.03: One paper is accepted by **NAACL 2024** (First Author). 
-- 2024.02: One paper is accepted by **CVPR 2024** (First Author).  
+- *2024.08:* I start my internship at Tencent YouTu Lab.
+- *2024.06:* One paper is accepted by **TPAMI 2024** (First Author). 
+- *2024.05:* One paper is accepted by **TIP 2024** (First Author). 
+- *2024.03:* One paper is accepted by **NAACL 2024** (First Author). 
+- *2024.02:* One paper is accepted by **CVPR 2024** (First Author).  
 
 <h1 id='publications'>Selected Publications</h1>
 
@@ -99,11 +99,11 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='experience'>Experience</h1>
 
-* 2024.08 - Present: Research Intern, at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html).
+* *2024.08 -- Present:* Research Intern, at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html).
   
-* 2023.05 - Present: Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
+* *2023.05 -- Present:* Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
 
-* 2022.07 - 2024.04: Visiting Student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
+* *2022.07 -- 2024.04:* Visiting Student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
 
 <h1 id='services'>Academic Services</h1>
 
