@@ -116,6 +116,6 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 * Association for Computational Linguistics Rolling Review (ACL ARR), 2023  
 
 ### Journal Reviewer
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
-IEEE Transactions on Multimedia (TMM)  
-PLOS ONE  
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
+* IEEE Transactions on Multimedia (TMM)  
+* PLOS ONE  
