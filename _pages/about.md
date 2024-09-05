@@ -107,8 +107,15 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='services'>Academic Services</h1>
 
-### Conference Reviewer
-* ICLR 2025, KDD 2025, NeurIPS 2024, CIKM 2024, ACM MM 2024, KDD 2024, ACL ARR 2023  
+### Conference Reviewer / PC Member
+International Conference on Learning Representations (ICLR), 2025  
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2024  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024-2025  
+Conference on Information and Knowledge Management (CIKM), 2024  
+Association for Computational Linguistics Rolling Review (ACL ARR), 2023  
+ACM Multimedia Conference (MM), 2024  
 
 ### Journal Reviewer
-* IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, PLOS ONE
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
+IEEE Transactions on Multimedia (TMM)  
+PLOS ONE  
