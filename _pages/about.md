@@ -99,21 +99,21 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='experience'>Experience</h1>
 
-* *2024.08 -- Present:* Research Intern, at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html).
+* *2024.08 -- Present:*          Research Intern, at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html).
   
-* *2023.05 -- Present:* Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
+* *2023.05 -- Present:*          Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
 
-* *2022.07 -- 2024.04:* Visiting Student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
+* *2022.07 -- 2024.04:*          Visiting Student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
 
 <h1 id='services'>Academic Services</h1>
 
 ### Conference Reviewer / PC Member
-International Conference on Learning Representations (ICLR), 2025  
-Annual Conference on Neural Information Processing Systems (NeurIPS), 2024  
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024-2025  
-Conference on Information and Knowledge Management (CIKM), 2024  
-Association for Computational Linguistics Rolling Review (ACL ARR), 2023  
-ACM Multimedia Conference (MM), 2024  
+* International Conference on Learning Representations (ICLR), 2025  
+* Annual Conference on Neural Information Processing Systems (NeurIPS), 2024  
+* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024-2025  
+* Conference on Information and Knowledge Management (CIKM), 2024  
+* ACM Multimedia (MM), 2024  
+* Association for Computational Linguistics Rolling Review (ACL ARR), 2023  
 
 ### Journal Reviewer
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
