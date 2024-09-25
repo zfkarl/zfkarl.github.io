@@ -28,6 +28,7 @@ My research interests are at the intersection of machine learning and real-world
 <span style="color:red;">I am seeking a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
 <h1 id='news'>News</h1>
+- *2024.09:* One paper is accepted by **NeurIPS 2024** (First Author).
 - *2024.08:* I start my internship at Tencent YouTu Lab.
 - *2024.06:* One paper is accepted by **TPAMI 2024** (First Author). 
 - *2024.05:* One paper is accepted by **TIP 2024** (First Author). 
@@ -37,6 +38,21 @@ My research interests are at the intersection of machine learning and real-world
 <h1 id='publications'>Selected Publications</h1>
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS24-DANcE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Semi-supervised Knowledge Transfer Across Multi-omic Single-cell Data](https://zfkarl.github.io/)  
+
+**Fan Zhang**, Tianyu Liu, Zihao Chen, Xiaojiang Peng, Chong Chen, Xiao Luo, Hongyu Zhao, Xian-Sheng Hua    
+
+*Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*  
+
+<span style="color:red;">*(CCF Rank A)*</span>  
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI-HOPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
