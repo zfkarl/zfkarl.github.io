@@ -39,7 +39,7 @@ My research interests are at the intersection of machine learning and real-world
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS24-DANcE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS24-DANCE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Semi-supervised Knowledge Transfer Across Multi-omic Single-cell Data](https://zfkarl.github.io/)  
