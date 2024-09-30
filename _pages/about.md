@@ -44,7 +44,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 [Semi-supervised Knowledge Transfer Across Multi-omic Single-cell Data](https://zfkarl.github.io/)  
 
-**Fan Zhang**, Tianyu Liu, Zihao Chen, Xiaojiang Peng, Chong Chen, Xiao Luo, Hongyu Zhao, Xian-Sheng Hua    
+**Fan Zhang**, Tianyu Liu, Zihao Chen, Xiaojiang Peng, Chong Chen, Xian-Sheng Hua, Hongyu Zhao, Xiao Luo     
 
 *Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*  
 
