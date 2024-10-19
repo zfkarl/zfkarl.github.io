@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a M.S. student at [Georgia Institute of Technology](https://www.shenzhen.gatech.edu/) and a research intern at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). Previously, I received my B.E. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am privileged to work closely with [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
+I'm currently a M.S. student at [Georgia Institute of Technology](https://www.shenzhen.gatech.edu/) and a research intern at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html), working with Dr. [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ&hl=zh-CN) and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN). Previously, I received my B.E. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
 
-My research interests lie at the intersection of machine learning and real-world applications. Recently, I have a special focus on:  
+My research interests lie at the intersection of machine learning, foundation models, and their applications in real-world scenarios. Recently, I have a special focus on:  
 * **Machine Learning**: Representation Learning, Data Mining, Foundation Models.  
 * **AI for Science**: LLM for Scientific Problems, ML for Biology, ML for Healthcare.  
 
@@ -115,7 +115,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='experience'>Experience</h1>
 
-* *2024.08 -- Present:*          Research Intern, at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html).
+* *2024.08 -- Present:*          Research Intern, at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html), advised by [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ&hl=zh-CN) and [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).
   
 * *2023.05 -- Present:*          Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
 
