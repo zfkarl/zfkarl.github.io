@@ -20,12 +20,10 @@ redirect_from:
 I'm currently a M.S. student at [Georgia Institute of Technology](https://www.shenzhen.gatech.edu/) and a research intern at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html), working with Dr. [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ&hl=zh-CN) and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN). Previously, I received my B.E. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
 
 My research interests lie at the intersection of machine learning, foundation models, and their applications in real-world scenarios. Recently, I have a special focus on:  
-* **Machine Learning**: Data-efficient representation learning, including transfer learning and semi-supervised learning, and their applications in multiple domains, such as data science, computer vision, and scientific problems.  
-* **AI for Science**: Scientific foundation models and computational biology, including LLMs/MLLMs for scientific problems, and machine learning for biology and healthcare.  
+* **Machine Learning**: data-centric machine learning and its applications in various domains, such as data science, computer vision, and scientific problems.  
+* **AI for Science**: foundation models (LLMs/MLLMs) for scientific problems, and machine learning for biology/healthcare.  
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
-
-<span style="color:red;">I am seeking a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
 <h1 id='news'>News</h1>
 - *2024.09:* One paper is accepted by **NeurIPS 2024** (First Author).
