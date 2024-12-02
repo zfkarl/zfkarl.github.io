@@ -21,7 +21,7 @@ I'm currently a M.S. student at [Georgia Institute of Technology](https://www.sh
 
 My research interests lie at the intersection of machine learning, foundation models, and their applications in real-world scenarios. Recently, I have a special focus on:  
 * **Machine Learning**: data-centric machine learning and its applications in data science, computer vision, and scientific problems.  
-* **AI for Science**: foundation models (LLMs/MLLMs) for scientific problems, and machine learning for biology/healthcare.  
+* **AI for Science**: foundation models (LLMs/MLLMs) for scientific problems and machine learning for biology/healthcare.  
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
