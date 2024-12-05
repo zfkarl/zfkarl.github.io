@@ -25,6 +25,8 @@ My research interests lie at the intersection of machine learning, foundation mo
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
+<span style="color:red;">Feel free to contact me for potential collaborations.</span>
+
 <h1 id='news'>News</h1>
 - *2024.09:* One paper is accepted by **NeurIPS 2024** (First Author).
 - *2024.08:* I start my internship at Tencent YouTu Lab.
