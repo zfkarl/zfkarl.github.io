@@ -53,6 +53,11 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 </div>
 </div>
 
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS24-DANCE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Semi-supervised Knowledge Transfer Across Multi-omic Single-cell Data](https://nips.cc/virtual/2024/poster/93394)  
 
 **Fan Zhang**, Tianyu Liu, Zihao Chen, Xiaojiang Peng, Chong Chen, Xian-Sheng Hua, Xiao Luo, Hongyu Zhao     
