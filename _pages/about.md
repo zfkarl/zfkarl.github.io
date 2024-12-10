@@ -40,7 +40,7 @@ My research interests lie at the intersection of machine learning, foundation mo
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS24-DANCE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI25-DREAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DREAM: Decoupled Discriminative Learning with Bigraph-aware Alignment for Semi-supervised 2D-3D Cross-modal Retrieval](https://zfkarl.github.io/)  
