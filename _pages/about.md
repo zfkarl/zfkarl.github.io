@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a M.S. student at [Georgia Institute of Technology](https://www.shenzhen.gatech.edu/) and a research intern at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html), working with Dr. [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ&hl=zh-CN) and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN). Previously, I received my B.E. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
+I'm currently a M.S. student at [Georgia Institute of Technology](https://www.shenzhen.gatech.edu/) and a research intern at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html), working with Dr. [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ&hl=zh-CN) and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN). Previously, I received my B.E. degree from [Soochow University](https://www.suda.edu.cn/). I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
 
 My research interests lie at the intersection of machine learning, foundation models, and scientific problems. Recently, I have a special focus on:  
 * **Machine Learning**: Data-centric Machine Learning, (Multimodal) Large Language Models.  
@@ -140,14 +140,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <h1 id='services'>Academic Services</h1>
 
 ### Conference Reviewer / PC Member
-* International Conference on Learning Representations (ICLR), 2025  
-* Annual Conference on Neural Information Processing Systems (NeurIPS), 2024  
-* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024-2025  
-* Conference on Information and Knowledge Management (CIKM), 2024  
-* ACM Multimedia (MM), 2024  
-* Association for Computational Linguistics Rolling Review (ACL ARR), 2023  
+* ICLR 2025, NeurIPS 2024, KDD 2024-2025, CIKM 2024, MM 2024, ACL ARR 2023    
 
 ### Journal Reviewer
-* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
-* IEEE Transactions on Multimedia (TMM)  
-* PLOS ONE  
+* IEEE TNNLS, IEEE TMM, PLOS ONE  
