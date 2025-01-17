@@ -25,7 +25,7 @@ My research interests lie at the intersection of machine learning, foundation mo
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
-<span style="color:red;">Feel free to contact me for potential collaborations.</span>
+<span style="color:red;">Feel free to contact me for communication and collaboration.</span>
 
 <h1 id='news'>News</h1>
 - *2024.12:* One paper is accepted by **AAAI 2025** (First Author).
@@ -133,7 +133,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 * *2024.08 -- Present:*          Research Intern, at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html), advised by [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ&hl=zh-CN) and [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).
   
-* *2023.05 -- Present:*          Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
+* *2023.05 -- 2024.12:*          Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
 
 * *2022.07 -- 2024.04:*          Visiting Student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
 
