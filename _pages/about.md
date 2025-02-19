@@ -140,7 +140,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <h1 id='services'>Academic Services</h1>
 
 ### Conference Reviewer / PC Member
-* ICLR 2025, NeurIPS 2024, KDD 2024-2025, CIKM 2024, MM 2024, ACL ARR 2023    
+* ICML 2025, ICLR 2025, NeurIPS 2024, KDD 2024-2025, CIKM 2024, MM 2024, ACL ARR 2023-2025    
 
 ### Journal Reviewer
 * IEEE TNNLS, IEEE TMM, PLOS ONE  
