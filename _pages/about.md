@@ -131,11 +131,20 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 <h1 id='experience'>Experience</h1>
 
-* *2024.08 -- Present:*          Research Intern, at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html), advised by [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ&hl=zh-CN) and [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).
-  
-* *2023.05 -- 2024.12:*          Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
+<div class='exp-box-text' markdown="1">
 
-* *2022.07 -- 2024.04:*          Visiting Student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
+[**Tencent YouTu Lab**](https://open.youtu.qq.com/), Shenzhen, China
+
+**Research Intern** @ Jarvis Research Center
+
+*2023.04 - 2023.09*
+
+</div>
+</div>
+
+---
+
 
 <h1 id='services'>Academic Services</h1>
 
