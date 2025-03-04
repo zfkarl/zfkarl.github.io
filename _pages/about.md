@@ -25,7 +25,7 @@ My research interests lie at the intersection of machine learning, foundation mo
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
-<span style="color:red;">Feel free to contact me for communication and collaboration.</span>
+<span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
 <h1 id='news'>News</h1>
 - *2024.12:* One paper is accepted by **AAAI 2025** (First Author).
