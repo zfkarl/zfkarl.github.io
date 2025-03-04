@@ -28,6 +28,7 @@ My research interests lie at the intersection of machine learning, foundation mo
 <span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
 <h1 id='news'>News</h1>
+<!--
 - *2024.12:* One paper is accepted by **AAAI 2025** (First Author).
 - *2024.09:* One paper is accepted by **NeurIPS 2024** (First Author).
 - *2024.08:* I start my internship at Tencent YouTu Lab.
@@ -35,6 +36,25 @@ My research interests lie at the intersection of machine learning, foundation mo
 - *2024.05:* One paper is accepted by **TIP 2024** (First Author). 
 - *2024.03:* One paper is accepted by **NAACL 2024** (First Author). 
 - *2024.02:* One paper is accepted by **CVPR 2024** (First Author).  
+-->
+<style>
+  .scrollable {
+    max-height: 260px; /* 设置最大高度 */
+    overflow-y: scroll; /* 设置垂直滚动条 */
+  }
+</style>
+
+<div class="scrollable">
+  <ul>
+    <li><strong>2024.12</strong>: One paper is accepted by **AAAI 2025** (First Author). </li>
+    <li><strong>2024.09</strong>: One paper is accepted by **NeurIPS 2024** (First Author). </li>
+    <li><strong>2024.08</strong>: I start my internship at Tencent YouTu Lab. </li>
+    <li><strong>2024.06</strong>: One paper is accepted by **TPAMI 2024** (First Author). </li>
+    <li><strong>2024.05</strong>: One paper is accepted by **TIP 2024** (First Author). </li>
+    <li><strong>2024.03</strong>: One paper is accepted by **NAACL 2024** (First Author). </li>
+    <li><strong>2024.02</strong>: One paper is accepted by **CVPR 2024** (First Author). </li>
+  </ul>
+</div>
 
 <h1 id='publications'>Selected Publications</h1>
 
@@ -142,9 +162,6 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 </div>
 </div>
-
----
-
 
 <h1 id='services'>Academic Services</h1>
 
