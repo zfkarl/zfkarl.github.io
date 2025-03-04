@@ -157,7 +157,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 **Research Intern** @ Jarvis Research Center
 
-*2023.04 - 2023.09*
+*2024.08 - 2025.04*
 
 </div>
 </div>
