@@ -29,6 +29,7 @@ My research interests lie at the intersection of foundation models and scientifi
 
 <h1 id='news'>News</h1>
 <!--
+
 - *2025.04:* I start my internship at Tongyi Lab, Alibaba Group.
 - *2024.12:* One paper is accepted by **AAAI 2025** (First Author).
 - *2024.09:* One paper is accepted by **NeurIPS 2024** (First Author).
@@ -151,7 +152,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 
 <h1 id='experience'>Experience</h1>
-<div class='exp-box'> <div class='exp-box-image'><div><img src='images/Tongyi-logo.png' alt="sym" width="100%"></div></div>
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/logo_tongyi.png' alt="sym" width="100%"></div></div>
 <div class='exp-box-text' markdown="1">
   
 [**Alibaba Group**](https://tongyi.aliyun.com/welcome), Hangzhou, China
