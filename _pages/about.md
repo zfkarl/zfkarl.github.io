@@ -29,7 +29,6 @@ My research interests lie at the intersection of foundation models and scientifi
 
 <h1 id='news'>News</h1>
 <!--
-
 - *2025.04:* I start my internship at Tongyi Lab, Alibaba Group.
 - *2024.12:* One paper is accepted by **AAAI 2025** (First Author).
 - *2024.09:* One paper is accepted by **NeurIPS 2024** (First Author).
@@ -48,6 +47,7 @@ My research interests lie at the intersection of foundation models and scientifi
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.04</strong>: I start my internship at Tongyi Lab, Alibaba Group.
     <li><strong>2024.12</strong>: One paper is accepted by AAAI 2025 (First Author). </li>
     <li><strong>2024.09</strong>: One paper is accepted by NeurIPS 2024 (First Author). </li>
     <li><strong>2024.08</strong>: I start my internship at Tencent YouTu Lab. </li>
