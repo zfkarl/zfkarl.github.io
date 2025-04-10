@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming CSE Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), under the supervision of [Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/). I held research internships at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
+I'm an incoming CSE Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), under the supervision of [Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/). I hold research internships at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
 
-My research interests lie at the intersection of machine learning, foundation models, and scientific problems. Recently, I have a special focus on:  
-* **Machine Learning**: Data-centric Machine Learning, (Multimodal) Large Language Models.  
-* **AI for Science**: Foundation Models (LLMs/MLLMs) for Scientific Problems, ML for Biology and Healthcare.  
+My research interests lie at the intersection of foundation models and scientific problems. Recently, I have a special focus on:  
+* **Foundation Models**: Large Language Models (LLMs)/Multimodal LLMs (MLLMs) Post-training.  
+* **AI for Science**: Foundation Models (LLMs/MLLMs) for Scientific Problems, including Biology and Healthcare.  
 
 **Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
@@ -151,6 +151,18 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 
 <h1 id='experience'>Experience</h1>
+<div class='exp-box'> <div class='exp-box-image'><div><img src='images/Tongyi-logo.png' alt="sym" width="100%"></div></div>
+<div class='exp-box-text' markdown="1">
+  
+[**Alibaba Group**](https://tongyi.aliyun.com/welcome), Hangzhou, China
+
+**Research Intern** @ Tongyi Lab
+
+2025.04 - 2025.07
+
+</div>
+</div>
+
 <div class='exp-box'> <div class='exp-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
 <div class='exp-box-text' markdown="1">
   
