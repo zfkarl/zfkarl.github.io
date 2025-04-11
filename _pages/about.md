@@ -167,9 +167,9 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <div class='exp-box'> <div class='exp-box-image'><div><img src='images/logo_YouTu.png' alt="sym" width="100%"></div></div>
 <div class='exp-box-text' markdown="1">
   
-[**Tencent YouTu Lab**](https://open.youtu.qq.com/), Shenzhen, China
+[**Tencent**](https://open.youtu.qq.com/), Shenzhen, China
 
-**Research Intern** @ Jarvis Research Center
+**Research Intern** @ YouTu Lab
 
 2024.08 - 2025.04
 
