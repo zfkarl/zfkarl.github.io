@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming CSE Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), under the supervision of [Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/). Previously, I completed research internships at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
+I'm an incoming Ph.D. student at [Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), under the supervision of [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I completed research internships at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
 
 My research interests lie at the intersection of foundation models and their applications in the scientific domain, with an emphasis on  
 * **Foundation Models**: Large Language Models (LLMs)/Multimodal LLMs (MLLMs) Post-training and Understanding.  
