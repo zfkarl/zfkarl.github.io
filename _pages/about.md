@@ -65,7 +65,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI25-DREAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DREAM: Decoupled Discriminative Learning with Bigraph-aware Alignment for Semi-supervised 2D-3D Cross-modal Retrieval](https://zfkarl.github.io/)  
+[DREAM: Decoupled Discriminative Learning with Bigraph-aware Alignment for Semi-supervised 2D-3D Cross-modal Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/33441)  
 
 **Fan Zhang**, Changhu Wang, Zebang Cheng, Xiaojiang Peng, Dongjie Wang, Yijia Xiao, Chong Chen, Xian-Sheng Hua, Xiao Luo     
 
