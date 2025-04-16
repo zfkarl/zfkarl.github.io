@@ -28,16 +28,6 @@ My research interests lie at the intersection of foundation models and their app
 <span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
 <h1 id='news'>News</h1>
-<!--
-- *2025.04:* I start my internship at Tongyi Lab, Alibaba Group.
-- *2024.12:* One paper is accepted by **AAAI 2025** (First Author).
-- *2024.09:* One paper is accepted by **NeurIPS 2024** (First Author).
-- *2024.08:* I start my internship at Tencent YouTu Lab.
-- *2024.06:* One paper is accepted by **TPAMI 2024** (First Author). 
-- *2024.05:* One paper is accepted by **TIP 2024** (First Author). 
-- *2024.03:* One paper is accepted by **NAACL 2024** (First Author). 
-- *2024.02:* One paper is accepted by **CVPR 2024** (First Author).  
--->
 <style>
   .scrollable {
     max-height: 260px; /* 设置最大高度 */
@@ -179,7 +169,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <h1 id='services'>Academic Services</h1>
 
 ### Conference Reviewer / PC Member
-* ICML 2025, ICLR 2025, NeurIPS 2024, KDD 2024-2025, CIKM 2024, MM 2024, ACL ARR 2023-2025    
+* ICML, ICLR, NeurIPS, KDD, CIKM, ACM MM, ACL ARR    
 
 ### Journal Reviewer
 * IEEE TNNLS, IEEE TMM, PLOS ONE  
