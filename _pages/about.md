@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming Ph.D. student at [Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), under the supervision of [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I completed research internships at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
+I'm an incoming Ph.D. student at [Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), under the supervision of Prof. [Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I completed research internships at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). I am also privileged to work closely with Prof. [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), Dr. [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
 
-My research interests lie at the intersection of foundation models and their applications in the scientific domain, with an emphasis on  
+My research interests lie at the intersection of foundation models and their applications in the scientific domain, with an emphasis on:    
 * **Foundation Models**: Large Language Models (LLMs)/Large Multimodal Models (LMMs) Post-training and Understanding.  
 * **AI for Science**: Scientific Foundation Models, including Life Science and Healthcare.  
 
@@ -169,7 +169,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <h1 id='services'>Academic Services</h1>
 
 ### Conference Reviewer / PC Member
-* ICML, ICLR, NeurIPS, KDD, CIKM, ACM MM, ACL ARR    
+* ICML, ICLR, NeurIPS, ICCV, KDD, CIKM, ACM MM, ACL ARR    
 
 ### Journal Reviewer
 * IEEE TNNLS, IEEE TMM, PLOS ONE  
