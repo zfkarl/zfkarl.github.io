@@ -23,7 +23,7 @@ My research interests lie at the intersection of foundation models and their app
 * **Foundation Models**: Large Language Models (LLMs)/Large Multimodal Models (LMMs) Post-training and Understanding.  
 * **AI for Science**: Scientific Foundation Models, including Life Science and Healthcare.  
 
-**Email**: <u>zfkarl1998@gmail.com</u>  &nbsp &nbsp **Wechat**: ZF_Karl
+**Email**: <u>zfkarl1998@gmail.com</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
 
 <span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
