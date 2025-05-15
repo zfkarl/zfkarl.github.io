@@ -37,7 +37,7 @@ My research interests lie at the intersection of foundation models and their app
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.04</strong>: Two survey papers on foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings). </li>
+    <li><strong>2025.05</strong>: Two survey papers on foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings). </li>
     <li><strong>2025.04</strong>: I start my internship at Tongyi Lab, Alibaba Group. </li>
     <li><strong>2024.12</strong>: One paper about multimodal representation learning is accepted by AAAI 2025. </li>
     <li><strong>2024.09</strong>: One paper about AI for Biology is accepted by NeurIPS 2024. </li>
