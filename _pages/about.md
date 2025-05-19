@@ -21,7 +21,7 @@ I'm an incoming Ph.D. student at [Department of Computer Science and Engineering
 
 My research interests lie at the intersection of foundation models and their applications in the scientific domain, with an emphasis on:    
 * **Foundation Models**: Large Language Models (LLMs)/Large Multimodal Models (LMMs) Post-training and Understanding.  
-* **AI for Science**: Scientific Foundation Models, including Life Science and Healthcare.  
+* **AI for Science**: Scientific Foundation Models, including Biology and Healthcare.  
 
 **Email**: <u>zfkarl1998@gmail.com</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
 
@@ -37,7 +37,7 @@ My research interests lie at the intersection of foundation models and their app
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.05</strong>: Two survey papers on foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings). </li>
+    <li><strong>2025.05</strong>: Two survey papers about foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings). </li>
     <li><strong>2025.04</strong>: I start my internship at Tongyi Lab, Alibaba Group. </li>
     <li><strong>2024.12</strong>: One paper about multimodal representation learning is accepted by AAAI 2025. </li>
     <li><strong>2024.09</strong>: One paper about AI for Biology is accepted by NeurIPS 2024. </li>
