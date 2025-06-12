@@ -21,7 +21,7 @@ I'm an incoming Ph.D. student at [Department of Computer Science and Engineering
 
 My research interests lie at the intersection of foundation models and their applications in the scientific domain, with an emphasis on:    
 * **Foundation Models**: Large Language Models (LLMs)/Large Multimodal Models (LMMs) Post-training and Understanding.  
-* **AI for Science**: Scientific Foundation Models, including Biology and Healthcare.  
+* **AI for Science**: Scientific Foundation Models, including Healthcare, Life Science, and Cognitive Science.  
 
 **Email**: <u>zfkarl1998@gmail.com</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
 
