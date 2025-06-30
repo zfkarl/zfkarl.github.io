@@ -150,7 +150,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 
 **Research Intern** @ Tongyi Lab
 
-2025.04 - Present
+2025.04 - 2025.07
 
 </div>
 </div>
