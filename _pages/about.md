@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), under the supervision of [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I have spent wonderful time at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html) as a research intern. I am also privileged to work closely with [Prof. Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), [Dr. Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and [Prof. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
+I'm an incoming Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), under the supervision of [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I gained valuable research experience as an intern at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). I have also had the privilege of collaborating closely with [Prof. Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), [Dr. Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and [Prof. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
 
-My research interests lie at the intersection of artificial Intelligence and its applications in the scientific domain, with an emphasis on:    
-* **Foundation Models**: Large Language Models (LLMs)/Large Multimodal Models (LMMs) Post-training and Understanding.  
-* **AI for Science**: Scientific Foundation Models, including Healthcare, Life Science, and Cognitive Science.  
+My research interests lie at the intersection of artificial Intelligence (AI) and its applications in the scientific domain, with an emphasis on:    
+* **Foundation Models**: Post-training adaptation and mechanistic understanding of Large Language Models (LLMs) and Large Multimodal Models (LMMs).    
+* **AI for Science**: Development and application of Scientific Foundation Models, particularly in Healthcare, Life Sciences, and Cognitive Science.    
 
 **Email**: <u>zfkarl1998@gmail.com</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
 
