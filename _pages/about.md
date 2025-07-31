@@ -23,7 +23,7 @@ My research interests lie at the intersection of artificial Intelligence (AI) an
 * **Foundation Models**: Post-training and mechanistic understanding of Large Language Models (LLMs) and Large Multimodal Models (LMMs).    
 * **AI for Science**: Development and application of scientific foundation models, particularly in healthcare, life science, and cognitive science.    
 
-**Email**: <u>zfkarl1998@gmail.com</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
+**Email**: <u>fzhang@link.cuhk.edu.hk</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
 
 <span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
