@@ -53,9 +53,24 @@ My research interests lie at the intersection of artificial Intelligence (AI) an
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI25-DREAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL25-scFLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[A Survey on Foundation Language Models for Single-cell Biology]([https://ojs.aaai.org/index.php/AAAI/article/view/33441](https://aclanthology.org/2025.acl-long.26/))  
+
+**Fan Zhang**, Hao Chen, Zhihong Zhu, Ziheng Zhang, Zhenxi Lin, Ziyue Qiao, Yefeng Zheng, Xian Wu     
+
+*Annual Meeting of the Association for Computational Linguistics (ACL), 2025*  
+
+<span style="color:red;">*(CCF Rank A)*</span>  
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI25-DREAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [DREAM: Decoupled Discriminative Learning with Bigraph-aware Alignment for Semi-supervised 2D-3D Cross-modal Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/33441)  
 
 **Fan Zhang**, Changhu Wang, Zebang Cheng, Xiaojiang Peng, Dongjie Wang, Yijia Xiao, Chong Chen, Xian-Sheng Hua, Xiao Luo     
