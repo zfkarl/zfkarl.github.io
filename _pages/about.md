@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), under the supervision of [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I gained valuable experience as a research intern at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). I have also had the privilege of collaborating closely with [Prof. Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), [Dr. Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and [Prof. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
+I'm currently a Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I gained valuable experience as a research intern at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/welcome) and [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). I have also had the privilege of collaborating closely with [Prof. Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), [Dr. Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and [Prof. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
 
 My research interests lie at the intersection of artificial Intelligence (AI) and its applications in the scientific domain, with an emphasis on:    
 * **Foundation Models**: Post-training and mechanistic understanding of Large Language Models (LLMs) and Large Multimodal Models (LMMs).    
@@ -56,7 +56,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL25-scFLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey on Foundation Language Models for Single-cell Biology]([https://ojs.aaai.org/index.php/AAAI/article/view/33441](https://aclanthology.org/2025.acl-long.26/))  
+[A Survey on Foundation Language Models for Single-cell Biology](https://aclanthology.org/2025.acl-long.26/)    
 
 **Fan Zhang**, Hao Chen, Zhihong Zhu, Ziheng Zhang, Zhenxi Lin, Ziyue Qiao, Yefeng Zheng, Xian Wu     
 
