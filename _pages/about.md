@@ -185,7 +185,7 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 <h1 id='services'>Academic Services</h1>
 
 ### Conference Reviewer / PC Member
-* ICML, ICLR, NeurIPS, ICCV, KDD, CIKM, ACM MM, ACL ARR    
+* ICML, ICLR, NeurIPS, ICCV, KDD, AAAI, CIKM, ACM MM, ACL ARR    
 
 ### Journal Reviewer
 * IEEE TNNLS, IEEE TMM, PLOS ONE  
