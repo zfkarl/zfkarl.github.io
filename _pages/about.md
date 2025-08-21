@@ -37,7 +37,7 @@ My research interests lie at the intersection of artificial Intelligence (AI) an
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.05</strong>: I joined CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng. </li>
+    <li><strong>2025.08</strong>: I joined CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng. </li>
     <li><strong>2025.04</strong>: I started my internship at Tongyi Lab, Alibaba Group. </li>
     <li><strong>2024.08</strong>: I started my internship at Tencent YouTu Lab. </li>
   </ul>
