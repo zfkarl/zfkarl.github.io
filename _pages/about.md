@@ -38,8 +38,15 @@ My research interests lie at the intersection of artificial Intelligence (AI) an
 <div class="scrollable">
   <ul>
     <li><strong>2025.08</strong>: I joined CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng. </li>
-    <li><strong>2025.04</strong>: I started my internship at Tongyi Lab, Alibaba Group. </li>
-    <li><strong>2024.08</strong>: I started my internship at Tencent YouTu Lab. </li>
+    <li><strong>2025.05</strong>: Two survey papers about foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings). </li>
+    <li><strong>2025.04</strong>: I start my internship at Tongyi Lab, Alibaba Group. </li>
+    <li><strong>2024.12</strong>: One paper about multimodal representation learning is accepted by AAAI 2025. </li>
+    <li><strong>2024.09</strong>: One paper about AI for Biology is accepted by NeurIPS 2024. </li>
+    <li><strong>2024.08</strong>: I start my internship at Tencent YouTu Lab. </li>
+    <li><strong>2024.06</strong>: One paper about multimodal representation learning is accepted by TPAMI 2024. </li>
+    <li><strong>2024.05</strong>: One paper about trustworthy information retrieval is accepted by TIP 2024. </li>
+    <li><strong>2024.03</strong>: One paper about multimodal representation learning is accepted by NAACL 2024. </li>
+    <li><strong>2024.02</strong>: One paper about multimodal representation learning is accepted by CVPR 2024. </li>
   </ul>
 </div>
 
