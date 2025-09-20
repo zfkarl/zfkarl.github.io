@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I gained valuable experience as a research intern at [Alibaba Group](https://tongyi.aliyun.com/welcome) and [Tencent](https://jarvislab.tencent.com/index-en.html). I have also had the privilege of collaborating closely with [Prof. Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN), [Dr. Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN), and [Prof. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
+I'm currently a Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I gained valuable experience as a research intern at [Alibaba Group](https://tongyi.aliyun.com/welcome) and [Tencent](https://jarvislab.tencent.com/index-en.html). I have also had the privilege of collaborating closely with [Prof. Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN) and [Prof. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=zh-CN).  
 
 My research interests lie at the intersection of artificial Intelligence (AI) and its applications in the scientific domain, with an emphasis on:    
 * **Foundation Models**: Post-training and mechanistic understanding of Large Language Models (LLMs) and Large Multimodal Models (LMMs).    
@@ -37,6 +37,7 @@ My research interests lie at the intersection of artificial Intelligence (AI) an
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.09</strong>: One paper about AI for Biology is accepted by NeurIPS 2025 Datasets and Benchmarks Track. </li>
     <li><strong>2025.08</strong>: I joined CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng. </li>
     <li><strong>2025.05</strong>: Two survey papers about foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings). </li>
     <li><strong>2025.04</strong>: I start my internship at Tongyi Lab, Alibaba Group. </li>
@@ -53,6 +54,21 @@ My research interests lie at the intersection of artificial Intelligence (AI) an
 <h1 id='publications'>Selected Publications</h1>
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NeurIPS25-CellVerse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CellVerse: Do Large Language Models Really Understand Cell Biology?](https://cellverse-cuhk.github.io/)    
+
+**Fan Zhang**, Tianyu Liu, Zhihong Zhu, Hao Wu, Haixin Wang, Donghao Zhou, Yefeng Zheng, Kun Wang, Xian Wu, Pheng-Ann Heng     
+
+*Annual Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2025*  
+
+<span style="color:red;">*(CCF Rank A)*</span>  
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL25-scFLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
