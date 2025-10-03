@@ -37,7 +37,7 @@ My research interests lie at the intersection of artificial Intelligence (AI) an
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.09</strong>: One paper about AI for Biology is accepted by NeurIPS 2025 Datasets and Benchmarks Track. </li>
+    <li><strong>2025.09</strong>: One paper about LLM for Biology is accepted by NeurIPS 2025 Datasets and Benchmarks Track. </li>
     <li><strong>2025.08</strong>: I joined CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng. </li>
     <li><strong>2025.05</strong>: Two survey papers about foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings). </li>
     <li><strong>2025.04</strong>: I start my internship at Tongyi Lab, Alibaba Group. </li>
