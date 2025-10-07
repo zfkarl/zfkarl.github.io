@@ -20,7 +20,7 @@ redirect_from:
 I'm currently a Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I gained valuable experience as a research intern at [Alibaba Group](https://tongyi.aliyun.com/welcome) and [Tencent](https://jarvislab.tencent.com/index-en.html).
 
 My research interests lie at the intersection of **Large Language Models (LLMs)/Large Multimodal Models (LMMs)** and their applications in the scientific domain, with an emphasis on:    
-* **Foundation Models**: Understanding, Reasoning, Post-training, Evaluation, and Agentic Techniques of LLMs/LMMs.    
+* **Foundation Models**: Post-training, Understanding, Reasoning, and Agentic Techniques of LLMs/LMMs.    
 * **AI for Science**: Scientific Foundation Models, particularly in Healthcare, Life Science, and Cognitive Science.    
 
 **Email**: <u>fzhang@link.cuhk.edu.hk</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
