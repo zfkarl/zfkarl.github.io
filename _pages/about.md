@@ -199,10 +199,13 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 </div>
 </div>
 
-<h1 id='services'>Academic Services</h1>
+<h1 id='services'>Services</h1>
 
 ### Conference Reviewer / PC Member
-* ICML, ICLR, NeurIPS, ICCV, KDD, AAAI, CIKM, ACM MM, ACL ARR    
+* ICML, ICLR, NeurIPS, CVPR, ICCV, KDD, AAAI, CIKM, ACM MM, ACL ARR    
 
 ### Journal Reviewer
-* IEEE TNNLS, IEEE TMM, PLOS ONE  
+* IEEE TKDE, IEEE TNNLS, IEEE TAFFC, IEEE TCSVT, IEEE TMM, PLOS ONE    
+
+### Teaching Assistant
+* ENGG1110D: Problem Solving By Programming       
