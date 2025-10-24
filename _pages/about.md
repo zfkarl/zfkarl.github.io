@@ -21,7 +21,7 @@ I'm currently a Ph.D. student at [Department of Computer Science and Engineering
 
 My research interests lie at the intersection of **Large Language Models (LLMs)**, **Multimodal AI**, and **AI for Science**, with an emphasis on:    
 * **Large Language Models**: Post-training, Understanding, Reasoning, and Agentic Techniques of LLMs.    
-* **Multimodal AI**: Video Understanding, Image-Text Matching, and Affective Computing.    
+* **Multimodal AI**: Multimodal Understanding, Image-Text Matching, and Affective Computing.    
 * **AI for Science**: Scientific Foundation Models, particularly in Healthcare, Life Science, and Cognitive Science.    
 
 **Email**: <u>fzhang@link.cuhk.edu.hk</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
