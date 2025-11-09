@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I gained valuable experience as a research intern at [Alibaba Group](https://tongyi.aliyun.com/welcome) and [Tencent](https://jarvislab.tencent.com/index-en.html).
+I'm currently a first-year Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I gained valuable experience as a research intern at [Alibaba Group](https://tongyi.aliyun.com/welcome) and [Tencent](https://jarvislab.tencent.com/index-en.html).
 
 My research interests lie at the intersection of **Large Language Models (LLMs)**, **Multimodal AI**, and **AI for Science**, with an emphasis on:    
 * **Large Language Models**: Post-training, Understanding, Reasoning, and Agentic Techniques of LLMs.    
@@ -38,6 +38,7 @@ My research interests lie at the intersection of **Large Language Models (LLMs)*
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.09</strong>: Two papers are accepted by AAAI 2026. Congrats to all. </li>
     <li><strong>2025.09</strong>: One paper about LLM for biology is accepted by NeurIPS 2025 Datasets and Benchmarks Track. </li>
     <li><strong>2025.08</strong>: I join CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng. </li>
     <li><strong>2025.05</strong>: Two survey papers about foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings). </li>
@@ -55,6 +56,7 @@ My research interests lie at the intersection of **Large Language Models (LLMs)*
 <h1 id='publications'>Selected Publications</h1>
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NeurIPS25-CellVerse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
