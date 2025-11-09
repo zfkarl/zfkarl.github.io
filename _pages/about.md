@@ -21,7 +21,7 @@ I'm currently a first-year Ph.D. student at [Department of Computer Science and 
 
 My research interests lie at the intersection of **Large Language Models (LLMs)**, **Multimodal AI**, and **AI for Science**, with an emphasis on:    
 * **Large Language Models**: Post-training, Understanding, Reasoning, and Agentic Techniques of LLMs.    
-* **Multimodal AI**: Multimodal Understanding, Image-Text Matching, and Affective Computing.    
+* **Multimodal AI**: Multimodal Understanding, Cross-modal Matching, and Affective Computing.    
 * **AI for Science**: Scientific Foundation Models, particularly in Healthcare, Life Science, and Cognitive Science.    
 
 **Email**: <u>fzhang@link.cuhk.edu.hk</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
@@ -38,7 +38,7 @@ My research interests lie at the intersection of **Large Language Models (LLMs)*
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.09</strong>: Two papers are accepted by AAAI 2026. Congrats to all. </li>
+    <li><strong>2025.11</strong>: Two papers are accepted by AAAI 2026. Congrats to all. </li>
     <li><strong>2025.09</strong>: One paper about LLM for biology is accepted by NeurIPS 2025 Datasets and Benchmarks Track. </li>
     <li><strong>2025.08</strong>: I join CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng. </li>
     <li><strong>2025.05</strong>: Two survey papers about foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings). </li>
