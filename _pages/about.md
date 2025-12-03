@@ -23,7 +23,7 @@ My research interests lie at the intersection of **Large Language Models (LLMs)*
 * **Large Language Models**: Post-training, Alignment, and Agentic Techniques of LLMs/Multimodal LLMs.    
 * **AI for Science**: Scientific Foundation Models, particularly in Healthcare, Life Science, and Cognitive Science.    
 
-**Email**: <u>fzhang@link.cuhk.edu.hk</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
+**Email**: <u>fzhang25@cse.cuhk.edu.hk</u> or <u>fzhang@link.cuhk.edu.hk</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
 
 <span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
