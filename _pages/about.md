@@ -210,4 +210,5 @@ For **full** publications, please refer to my [Google Scholar](https://scholar.g
 * IEEE TKDE, IEEE TNNLS, IEEE TAFFC, IEEE TCSVT, IEEE TMM, PLOS ONE    
 
 ### Teaching Assistant
-* ENGG1110D: Problem Solving By Programming       
+* ENGG1110D: Problem Solving By Programming
+* CSCI2100A: Data Structure      
