@@ -37,6 +37,7 @@ My research interests lie at the intersection of **Large Language Models (LLMs)*
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.11</strong>: Two papers are accepted by ICLR 2026. Congrats to all. </li>
     <li><strong>2025.11</strong>: Two papers are accepted by AAAI 2026. Congrats to all. </li>
     <li><strong>2025.09</strong>: One paper about LLM for biology is accepted by NeurIPS 2025 Datasets and Benchmarks Track. </li>
     <li><strong>2025.08</strong>: I join CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng. </li>
@@ -56,6 +57,21 @@ My research interests lie at the intersection of **Large Language Models (LLMs)*
 
 For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ICLR26-MME-Emotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MME-Emotion: A Holistic Evaluation Benchmark for Emotional Intelligence in Multimodal Large Language Models](https://mme-emotion.github.io/)    
+
+**Fan Zhang**, Zebang Cheng, Chong Deng, Haoxuan Li, Zheng Lian, Qian Chen, Huadai Liu, Wen Wang, YiFan Zhang, Renrui Zhang, Ziyu Guo, Zhihong Zhu, Hao Wu, Haixin Wang, Yefeng Zheng, Xiaojiang Peng, Xian Wu, Kun Wang, Xiangang Li, Jieping Ye, Pheng-Ann Heng         
+
+*International Conference on Learning Representations (ICLR), 2026*  
+
+<span style="color:red;">*(Core Rank A)*</span>  
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NeurIPS25-CellVerse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
