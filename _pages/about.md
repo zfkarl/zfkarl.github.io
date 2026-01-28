@@ -19,9 +19,9 @@ redirect_from:
 
 I'm currently a first-year Ph.D. student at [Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Pheng-Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN). Previously, I gained valuable experience as a research intern at [Alibaba Group](https://tongyi.aliyun.com/welcome) and [Tencent](https://jarvislab.tencent.com/index-en.html).
 
-My research interests lie at the intersection of **Large Language Models (LLMs)** and **AI for Science**, with an emphasis on:    
-* **Large Language Models**: Post-training, Alignment, and Agentic Techniques of LLMs/Multimodal LLMs.    
-* **AI for Science**: Scientific Foundation Models, particularly in Healthcare, Life Science, and Cognitive Science.    
+My research interests lie at the intersection of **Large Language Models (LLMs)** and **their applications**, with an emphasis on:    
+* **Large Language Models**: Post-training, Reasoning, Alignment, and Agentic Techniques of LLMs/Multimodal LLMs.    
+* **LLM Applications**: Scientific Foundation Models, particularly in Healthcare, Life Science, and Cognitive Science.    
 
 **Email**: <u>fzhang25@cse.cuhk.edu.hk</u> or <u>fzhang@link.cuhk.edu.hk</u>  &nbsp; &nbsp;  **Wechat**: ZF_Karl
 
