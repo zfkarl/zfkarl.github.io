@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<!-- Fan Zhang from CUHK -->
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords"
+          content="Fan Zhang, zhangfan, fan zhang, Zhang Fan, 章帆, CUHK, The Chinese University of Hong Kong, CSE, LLM, Agents, Multimodal">
+    <meta name="description" content="Fan Zhang's home page">
+    <title>Fan Zhang (章帆)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            font-size: 15px;
+            line-height: 1.7;
+            color: #222;
+            background: #fff;
+        }
+
+        .container {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 40px 24px 80px;
+        }
+
+        /* ── Header ── */
+        .header {
+            display: flex;
+            gap: 36px;
+            align-items: flex-start;
+            margin-bottom: 48px;
+        }
+
+        .header-photo img {
+            width: 160px;
+            height: 160px;
+            border-radius: 8px;
+            object-fit: cover;
+            display: block;
+        }
+
+        .header-bio h1 {
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .header-bio .position {
+            font-size: 15px;
+            color: #555;
+            margin-bottom: 14px;
+        }
+
+        .header-bio .bio {
+            font-size: 14.5px;
+            color: #333;
+            margin-bottom: 16px;
+        }
+
+        .header-bio .bio p + p {
+            margin-top: 10px;
+        }
+
+        .header-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .header-links a {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 5px 12px;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            font-size: 13px;
+            color: #333;
+            text-decoration: none;
+            transition: border-color 0.2s, color 0.2s;
+        }
+
+        .header-links a:hover {
+            border-color: #555;
+            color: #000;
+        }
+
+        /* ── Sections ── */
+        section { margin-bottom: 40px; }
+
+        section h2 {
+            font-size: 18px;
+            font-weight: 600;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #e0e0e0;
+            margin-bottom: 20px;
+        }
+
+        /* ── News ── */
+        .news-list {
+            max-height: 260px;
+            overflow-y: auto;
+            list-style: none;
+        }
+        .news-list li {
+            margin-bottom: 6px;
+            font-size: 14.5px;
+        }
+        .news-list li::before { content: "·  "; color: #999; }
+
+        /* ── Publications ── */
+        .pub-list { list-style: none; }
+
+        .pub-item {
+            display: flex;
+            gap: 14px;
+            margin-bottom: 22px;
+        }
+
+        .pub-venue-col {
+            flex-shrink: 0;
+            width: 72px;
+            padding-top: 2px;
+        }
+
+        .venue {
+            display: inline-block;
+            font-size: 11px;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            padding: 2px 7px;
+            border-radius: 4px;
+            color: #fff;
+            white-space: nowrap;
+        }
+
+        .venue-CVPR   { background: #c0392b; }
+        .venue-NeurIPS { background: #6c3483; }
+        .venue-ICCV   { background: #1a5276; }
+        .venue-ECCV   { background: #1a7a4a; }
+        .venue-ICLR   { background: #d35400; }
+        .venue-AAAI   { background: #2471a3; }
+        .venue-NAACL  { background: #117a65; }
+        .venue-ACL    { background: #1a5276; }
+        .venue-TPAMI  { background: #515a5a; }
+        .venue-TIP    { background: #515a5a; }
+
+        .pub-body {}
+
+        .pub-title {
+            font-size: 14.5px;
+            font-weight: 600;
+            margin-bottom: 2px;
+        }
+
+        .pub-title a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .pub-title a:hover {
+            color: #2471a3;
+            text-decoration: underline;
+        }
+
+        .pub-authors {
+            font-size: 13.5px;
+            color: #555;
+            margin-bottom: 2px;
+        }
+
+        .pub-venue-line {
+            font-size: 13.5px;
+            color: #555;
+            font-style: italic;
+            margin-bottom: 6px;
+        }
+
+        .pub-note {
+            font-size: 12.5px;
+            color: #c0392b;
+            font-weight: 500;
+        }
+
+        .pub-links { display: flex; flex-wrap: wrap; gap: 6px; }
+
+        .btn {
+            display: inline-block;
+            font-size: 12px;
+            padding: 2px 9px;
+            border: 1px solid #bbb;
+            border-radius: 4px;
+            color: #444;
+            text-decoration: none;
+            transition: background 0.15s, color 0.15s;
+        }
+
+        .btn:hover {
+            background: #f0f0f0;
+            color: #000;
+        }
+
+        /* ── Experience ── */
+        .exp-item { margin-bottom: 16px; }
+        .exp-org  { font-weight: 500; }
+        .exp-meta { font-size: 13.5px; color: #666; }
+
+        /* ── Teaching ── */
+        .teach-list { list-style: none; }
+        .teach-list li { margin-bottom: 4px; font-size: 14.5px; }
+
+        /* ── Professional Activities ── */
+        .activity-section { margin-bottom: 16px; }
+        .activity-section h3 { font-size: 14.5px; font-weight: 600; margin-bottom: 4px; }
+        .activity-section p  { font-size: 14px; color: #444; }
+
+        /* ── Responsive ── */
+        @media (max-width: 600px) {
+            .header { flex-direction: column; align-items: center; text-align: center; }
+            .header-links { justify-content: center; }
+            .pub-item { flex-direction: column; gap: 6px; }
+            .pub-venue-col { width: auto; }
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+
+    <!-- ══ Header ══ -->
+    <header class="header">
+        <div class="header-photo">
+            <img src="assets/fanzhang.png" alt="Fan Zhang">
+        </div>
+        <div class="header-bio">
+            <h1>Fan Zhang (章帆)</h1>
+            <p class="position">CSE Ph.D. Student @ The Chinese University of Hong Kong</p>
+            <div class="bio">
+                <p>I'm currently a first-year Ph.D. student at <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)</a>, supervised by <a href="https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN">Prof. Pheng-Ann Heng</a>. Previously, I gained valuable experience as a research intern at <a href="https://tongyi.aliyun.com/welcome">Alibaba Group</a> and <a href="https://jarvislab.tencent.com/index-en.html">Tencent</a>.</p>
+                <p>My research interests include <strong>Large Language Models (LLMs)</strong> and <strong>Multimodal Understanding</strong>, with an emphasis on post-training, evaluation, reasoning, agents, and their applications.</p>
+                <p style="color:red;">Please feel free to contact me for communication and collaboration.</p>
+            </div>
+            <div class="header-links">
+                <a href="mailto:fzhang25@cse.cuhk.edu.hk">Email</a>
+                <a href="https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao" target="_blank">Google Scholar</a>
+                <a href="https://github.com/zfkarl" target="_blank">GitHub</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- ══ News ══ -->
+    <section id="news">
+        <h2>News</h2>
+        <ul class="news-list">
+            <li><strong>2026.01</strong>: Two papers are accepted by ICLR 2026. Congrats to all.</li>
+            <li><strong>2025.11</strong>: Two papers are accepted by AAAI 2026. Congrats to all.</li>
+            <li><strong>2025.09</strong>: One paper about LLM for biology is accepted by NeurIPS 2025 Datasets and Benchmarks Track.</li>
+            <li><strong>2025.08</strong>: I join CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng.</li>
+            <li><strong>2025.05</strong>: Two survey papers about foundation models for biology and healthcare are accepted by ACL 2025 (1 main paper and 1 findings).</li>
+            <li><strong>2025.04</strong>: I start my internship at Tongyi Lab, Alibaba Group.</li>
+            <li><strong>2024.12</strong>: One paper about multimodal learning is accepted by AAAI 2025.</li>
+            <li><strong>2024.09</strong>: One paper about AI for biology is accepted by NeurIPS 2024.</li>
+            <li><strong>2024.08</strong>: I start my internship at Tencent YouTu Lab.</li>
+            <li><strong>2024.06</strong>: One paper about multimodal learning is accepted by TPAMI 2024.</li>
+            <li><strong>2024.05</strong>: One paper about information retrieval is accepted by TIP 2024.</li>
+            <li><strong>2024.03</strong>: One paper about multimodal learning is accepted by NAACL 2024.</li>
+            <li><strong>2024.02</strong>: One paper about multimodal learning is accepted by CVPR 2024.</li>
+        </ul>
+    </section>
+
+    <!-- ══ Selected Publications ══ -->
+    <section id="publications">
+        <h2>Selected Publications</h2>
+        <p style="font-size:13px;color:#777;margin-bottom:16px;">For full publications, please refer to my <a href="https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao">Google Scholar</a>.</p>
+        <ul class="pub-list">
+
+            <li class="pub-item">
+                <div class="pub-venue-col"><span class="venue venue-ICLR">ICLR</span><br><span style="font-size:11px;color:#888">2026</span></div>
+                <div class="pub-body">
+                    <div class="pub-title"><a href="https://mme-emotion.github.io/">MME-Emotion: A Holistic Evaluation Benchmark for Emotional Intelligence in Multimodal Large Language Models</a></div>
+                    <div class="pub-authors"><strong>Fan Zhang</strong>, Zebang Cheng, Chong Deng, Haoxuan Li, Zheng Lian, Qian Chen, Huadai Liu, Wen Wang, YiFan Zhang, Renrui Zhang, Ziyu Guo, Zhihong Zhu, Hao Wu, Haixin Wang, Yefeng Zheng, Xiaojiang Peng, Xian Wu, Kun Wang, Xiangang Li, Jieping Ye, Pheng-Ann Heng</div>
+                    <div class="pub-venue-line">International Conference on Learning Representations (ICLR), 2026.</div>
+                    <div class="pub-note">Core Rank A</div>
+                    <div class="pub-links">
+                        <a class="btn" href="https://mme-emotion.github.io/">project</a>
+                    </div>
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <div class="pub-venue-col"><span class="venue venue-NeurIPS">NeurIPS</span><br><span style="font-size:11px;color:#888">2025</span></div>
+                <div class="pub-body">
+                    <div class="pub-title"><a href="https://cellverse-cuhk.github.io/">CellVerse: Do Large Language Models Really Understand Cell Biology?</a></div>
+                    <div class="pub-authors"><strong>Fan Zhang</strong>, Tianyu Liu, Zhihong Zhu, Hao Wu, Haixin Wang, Donghao Zhou, Yefeng Zheng, Kun Wang, Xian Wu, Pheng-Ann Heng</div>
+                    <div class="pub-venue-line">Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2025.</div>
+                    <div class="pub-note">CCF Rank A</div>
+                    <div class="pub-links">
+                        <a class="btn" href="https://cellverse-cuhk.github.io/">project</a>
+                    </div>
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <div class="pub-venue-col"><span class="venue venue-ACL">ACL</span><br><span style="font-size:11px;color:#888">2025</span></div>
+                <div class="pub-body">
+                    <div class="pub-title"><a href="https://aclanthology.org/2025.acl-long.26/">A Survey on Foundation Language Models for Single-cell Biology</a></div>
+                    <div class="pub-authors"><strong>Fan Zhang</strong>, Hao Chen, Zhihong Zhu, Ziheng Zhang, Zhenxi Lin, Ziyue Qiao, Yefeng Zheng, Xian Wu</div>
+                    <div class="pub-venue-line">Annual Meeting of the Association for Computational Linguistics (ACL), 2025.</div>
+                    <div class="pub-note">CCF Rank A</div>
+                    <div class="pub-links">
+                        <a class="btn" href="https://aclanthology.org/2025.acl-long.26/">paper</a>
+                    </div>
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <div class="pub-venue-col"><span class="venue venue-AAAI">AAAI</span><br><span style="font-size:11px;color:#888">2025</span></div>
+                <div class="pub-body">
+                    <div class="pub-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33441">DREAM: Decoupled Discriminative Learning with Bigraph-aware Alignment for Semi-supervised 2D-3D Cross-modal Retrieval</a></div>
+                    <div class="pub-authors"><strong>Fan Zhang</strong>, Changhu Wang, Zebang Cheng, Xiaojiang Peng, Dongjie Wang, Yijia Xiao, Chong Chen, Xian-Sheng Hua, Xiao Luo</div>
+                    <div class="pub-venue-line">Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.</div>
+                    <div class="pub-note">CCF Rank A</div>
+                    <div class="pub-links">
+                        <a class="btn" href="https://ojs.aaai.org/index.php/AAAI/article/view/33441">paper</a>
+                    </div>
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <div class="pub-venue-col"><span class="venue venue-NeurIPS">NeurIPS</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-body">
+                    <div class="pub-title"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/47f30d67bce3e9824928267e9355420f-Paper-Conference.pdf">Semi-supervised Knowledge Transfer Across Multi-omic Single-cell Data</a></div>
+                    <div class="pub-authors"><strong>Fan Zhang</strong>, Tianyu Liu, Zihao Chen, Xiaojiang Peng, Chong Chen, Xian-Sheng Hua, Xiao Luo, Hongyu Zhao</div>
+                    <div class="pub-venue-line">Conference on Neural Information Processing Systems (NeurIPS), 2024.</div>
+                    <div class="pub-note">CCF Rank A</div>
+                    <div class="pub-links">
+                        <a class="btn" href="https://proceedings.neurips.cc/paper_files/paper/2024/file/47f30d67bce3e9824928267e9355420f-Paper-Conference.pdf">paper</a>
+                    </div>
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <div class="pub-venue-col"><span class="venue venue-TPAMI">TPAMI</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-body">
+                    <div class="pub-title"><a href="https://ieeexplore.ieee.org/document/10553262">HOPE: A Hierarchical Perspective for Semi-supervised 2D-3D Cross-Modal Retrieval</a></div>
+                    <div class="pub-authors"><strong>Fan Zhang</strong>, Hang Zhou, Xian-Sheng Hua, Chong Chen, Xiao Luo</div>
+                    <div class="pub-venue-line">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.</div>
+                    <div class="pub-note">CCF Rank A, JCR Q1, IF=23.6</div>
+                    <div class="pub-links">
+                        <a class="btn" href="https://ieeexplore.ieee.org/document/10553262">paper</a>
+                    </div>
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <div class="pub-venue-col"><span class="venue venue-TIP">TIP</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-body">
+                    <div class="pub-title"><a href="https://ieeexplore.ieee.org/document/10547662">FATE: Learning Effective Binary Descriptors with Group Fairness</a></div>
+                    <div class="pub-authors"><strong>Fan Zhang</strong>, Chong Chen, Xian-Sheng Hua, Xiao Luo</div>
+                    <div class="pub-venue-line">IEEE Transactions on Image Processing (TIP), 2024.</div>
+                    <div class="pub-note">CCF Rank A, JCR Q1, IF=10.6</div>
+                    <div class="pub-links">
+                        <a class="btn" href="https://ieeexplore.ieee.org/document/10547662">paper</a>
+                    </div>
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <div class="pub-venue-col"><span class="venue venue-NAACL">NAACL</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-body">
+                    <div class="pub-title"><a href="https://arxiv.org/pdf/2405.11496">DEMO: A Statistical Perspective for Efficient Image-Text Matching</a></div>
+                    <div class="pub-authors"><strong>Fan Zhang</strong>, Xian-Sheng Hua, Chong Chen, Xiao Luo</div>
+                    <div class="pub-venue-line">North American Chapter of the Association for Computational Linguistics (NAACL), 2024.</div>
+                    <div class="pub-note">CCF Rank B</div>
+                    <div class="pub-links">
+                        <a class="btn" href="https://arxiv.org/pdf/2405.11496">arXiv</a>
+                    </div>
+                </div>
+            </li>
+
+            <li class="pub-item">
+                <div class="pub-venue-col"><span class="venue venue-CVPR">CVPR</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-body">
+                    <div class="pub-title"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Fine-grained_Prototypical_Voting_with_Heterogeneous_Mixup_for_Semi-supervised_2D-3D_Cross-modal_CVPR_2024_paper.pdf">Fine-grained Prototypical Voting with Heterogeneous Mixup for Semi-supervised 2D-3D Cross-modal Retrieval</a></div>
+                    <div class="pub-authors"><strong>Fan Zhang</strong>, Xian-Sheng Hua, Chong Chen, Xiao Luo</div>
+                    <div class="pub-venue-line">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.</div>
+                    <div class="pub-note">CCF Rank A</div>
+                    <div class="pub-links">
+                        <a class="btn" href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Fine-grained_Prototypical_Voting_with_Heterogeneous_Mixup_for_Semi-supervised_2D-3D_Cross-modal_CVPR_2024_paper.pdf">paper</a>
+                    </div>
+                </div>
+            </li>
+
+        </ul>
+    </section>
+
+    <!-- ══ Experience ══ -->
+    <section id="experience">
+        <h2>Experience</h2>
+
+        <div class="exp-item">
+            <div class="exp-org">Alibaba Group, Tongyi Lab</div>
+            <div class="exp-meta">Apr 2025 – Jul 2025 &nbsp;·&nbsp; Hangzhou, China</div>
+            <div class="exp-meta">Research Intern</div>
+        </div>
+
+        <div class="exp-item">
+            <div class="exp-org">Tencent, YouTu Lab</div>
+            <div class="exp-meta">Aug 2024 – Apr 2025 &nbsp;·&nbsp; Shenzhen, China</div>
+            <div class="exp-meta">Research Intern</div>
+        </div>
+    </section>
+
+    <!-- ══ Teaching ══ -->
+    <section id="teaching">
+        <h2>Teaching</h2>
+        <p style="font-size:14.5px;margin-bottom:12px;">I served as teaching assistant for the following courses.</p>
+        <ul class="teach-list">
+            <li>ENGG1110D: Problem Solving By Programming</li>
+            <li>CSCI2100A: Data Structure</li>
+        </ul>
+    </section>
+
+    <!-- ══ Professional Activities ══ -->
+    <section id="service">
+        <h2>Professional Activities</h2>
+        <div class="activity-section">
+            <h3>Conference Reviewer / PC Member</h3>
+            <p>ICML, ICLR, NeurIPS, CVPR, ICCV, KDD, AAAI, CIKM, ACM MM, ACL ARR</p>
+        </div>
+        <div class="activity-section">
+            <h3>Journal Reviewer</h3>
+            <p>IEEE TKDE, IEEE TNNLS, IEEE TAFFC, IEEE TCSVT, IEEE TMM, PLOS ONE</p>
+        </div>
+        <div class="activity-section">
+            <h3>Program Chair</h3>
+            <p>AAAI 2026 Bridge: Logical and Symbolic Reasoning in Language Models</p>
+        </div>
+    </section>
+
+</div>
+</body>
+
+</html>
