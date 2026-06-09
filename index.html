@@ -11,7 +11,7 @@
     <title>Fan Zhang (章帆)</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&amp;display=swap" rel="stylesheet">
     <style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -31,28 +31,66 @@
 
         /* ── Header ── */
         .header {
-            display: flex;
-            gap: 36px;
-            align-items: flex-start;
+            display: grid;
+            grid-template-columns: 190px minmax(0, 1fr);
+            gap: 28px;
+            align-items: stretch;
+            padding: 22px;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            background: linear-gradient(180deg, #fff 0%, #fafafa 100%);
+            box-shadow: 0 10px 28px rgba(0, 0, 0, 0.05);
             margin-bottom: 48px;
         }
 
+        .profile-side {
+            display: grid;
+            gap: 12px;
+            align-content: space-between;
+            width: 190px;
+            padding-bottom: 16px;
+        }
+
         .header-photo img {
-            width: 160px;
-            height: 160px;
+            width: 100%;
+            aspect-ratio: 1;
+            height: auto;
             border-radius: 8px;
             object-fit: cover;
             display: block;
+            border: 1px solid #eef0f3;
+        }
+
+        .profile-panel {
+            padding: 10px;
+            border: 1px solid #eef0f3;
+            border-radius: 8px;
+            background: #fff;
+        }
+
+        .profile-panel .header-links {
+            display: grid;
+            gap: 7px;
+        }
+
+        .profile-panel .header-links a {
+            justify-content: center;
+            border-radius: 8px;
         }
 
         .header-bio h1 {
-            font-size: 28px;
+            font-size: 30px;
             font-weight: 600;
             margin-bottom: 4px;
+            line-height: 1.2;
+        }
+
+        .header-bio {
+            min-width: 0;
         }
 
         .header-bio .position {
-            font-size: 15px;
+            font-size: 15.5px;
             color: #555;
             margin-bottom: 14px;
         }
@@ -65,6 +103,57 @@
 
         .header-bio .bio p + p {
             margin-top: 10px;
+        }
+
+        .header-bio a {
+            color: #2471a3;
+            text-decoration: none;
+        }
+
+        .header-bio a:hover {
+            text-decoration: underline;
+        }
+
+        .contact-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 7px;
+        }
+
+        .contact-chip {
+            display: inline-flex;
+            align-items: center;
+            min-height: 24px;
+            padding: 2px 9px;
+            border: 1px solid #e3e8ee;
+            border-radius: 4px;
+            background: #fff;
+            font-size: 13px;
+        }
+
+        .contact-row {
+            margin-bottom: 12px;
+        }
+
+        .contact-chip {
+            color: #444;
+        }
+
+        .contact-chip strong {
+            flex-shrink: 0;
+            margin-right: 5px;
+            color: #222;
+            white-space: nowrap;
+        }
+
+        .contact-note {
+            margin-bottom: 14px;
+            padding: 8px 11px;
+            border-left: 3px solid #2471a3;
+            border-radius: 4px;
+            background: #f4f8fb;
+            color: #3f5360;
+            font-size: 13.5px;
         }
 
         .header-links {
@@ -103,38 +192,103 @@
         }
 
         /* ── News ── */
+        .news-card {
+            padding: 14px 16px;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            background: linear-gradient(180deg, #fff 0%, #fafafa 100%);
+            box-shadow: 0 8px 22px rgba(0, 0, 0, 0.04);
+        }
+
         .news-list {
-            max-height: 260px;
-            overflow-y: auto;
+            display: grid;
+            gap: 0;
             list-style: none;
         }
+
         .news-list li {
-            margin-bottom: 6px;
-            font-size: 14.5px;
+            display: grid;
+            grid-template-columns: 76px minmax(0, 1fr);
+            gap: 13px;
+            align-items: baseline;
+            padding: 9px 0;
         }
-         /* .news-list li::before { content: "·  "; color: #999; } */
+
+        .news-list li + li {
+            border-top: 1px solid #f0f0f0;
+        }
+
+        .news-date {
+            display: block;
+            color: #2471a3;
+            font-size: 13px;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+
+        .news-text {
+            font-size: 14.5px;
+            color: #333;
+            min-width: 0;
+        }
 
         /* ── Publications ── */
-        .pub-list { list-style: none; }
+        .pub-intro {
+            font-size: 13.5px;
+            color: #666;
+            margin-bottom: 16px;
+        }
+
+        .pub-intro a {
+            color: #2471a3;
+            text-decoration: none;
+        }
+
+        .pub-intro a:hover {
+            text-decoration: underline;
+        }
+
+        .pub-list {
+            display: grid;
+            gap: 12px;
+            list-style: none;
+        }
 
         .pub-item {
-            display: flex;
-            gap: 14px;
-            margin-bottom: 22px;
+            display: grid;
+            grid-template-columns: 80px minmax(0, 1fr);
+            gap: 16px;
+            align-items: start;
+            padding: 16px 18px;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            background: linear-gradient(180deg, #fff 0%, #fafafa 100%);
+            box-shadow: 0 8px 22px rgba(0, 0, 0, 0.04);
+            transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+        }
+
+        .pub-item:hover {
+            transform: translateY(-2px);
+            border-color: #d5d9e0;
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.07);
         }
 
         .pub-venue-col {
-            flex-shrink: 0;
-            width: 72px;
-            padding-top: 2px;
+            display: grid;
+            gap: 6px;
+            justify-items: start;
+            width: auto;
+            padding-top: 1px;
         }
 
         .venue {
-            display: inline-block;
-            font-size: 11px;
+            display: inline-flex;
+            justify-content: center;
+            min-width: 68px;
+            font-size: 11.5px;
             font-weight: 600;
             letter-spacing: 0.3px;
-            padding: 2px 7px;
+            padding: 3px 8px;
             border-radius: 4px;
             color: #fff;
             white-space: nowrap;
@@ -151,17 +305,33 @@
         .venue-TPAMI  { background: #2471a3; }
         .venue-TIP    { background: #2471a3; }
 
-        .pub-body {}
+        .pub-year {
+            display: inline-flex;
+            justify-content: center;
+            min-width: 58px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            background: #f3f5f7;
+            color: #777;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .pub-body {
+            min-width: 0;
+        }
 
         .pub-title {
-            font-size: 14.5px;
+            font-size: 15px;
             font-weight: 600;
-            margin-bottom: 2px;
+            line-height: 1.45;
+            margin-bottom: 4px;
         }
 
         .pub-title a {
             color: inherit;
             text-decoration: none;
+            overflow-wrap: anywhere;
         }
 
         .pub-title a:hover {
@@ -172,38 +342,60 @@
         .pub-authors {
             font-size: 13.5px;
             color: #555;
-            margin-bottom: 2px;
+            line-height: 1.5;
+            margin-bottom: 4px;
         }
 
         .pub-venue-line {
             font-size: 13.5px;
             color: #555;
             font-style: italic;
-            margin-bottom: 6px;
+            line-height: 1.45;
+            margin-bottom: 7px;
         }
 
         .pub-note {
-            font-size: 12.5px;
+            display: inline-flex;
+            width: fit-content;
+            padding: 2px 8px;
+            border-radius: 4px;
+            background: #fff4ef;
             color: #c0392b;
-            font-weight: 500;
+            font-size: 12px;
+            font-weight: 600;
         }
 
-        .pub-links { display: flex; flex-wrap: wrap; gap: 6px; }
+        .pub-actions {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 8px;
+            margin-top: 8px;
+        }
+
+        .pub-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
 
         .btn {
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
             font-size: 12px;
-            padding: 2px 9px;
-            border: 1px solid #bbb;
+            padding: 3px 9px;
+            border: 1px solid #d6dce3;
             border-radius: 4px;
             color: #444;
+            background: #fff;
             text-decoration: none;
-            transition: background 0.15s, color 0.15s;
+            transition: border-color 0.15s, background 0.15s, color 0.15s;
         }
 
         .btn:hover {
-            background: #f0f0f0;
-            color: #000;
+            border-color: #b9c3ce;
+            background: #f5f7f9;
+            color: #2471a3;
         }
 
         /* ── Experience ── */
@@ -307,25 +499,147 @@
         }
 
         /* ── Teaching ── */
-        .teach-list { list-style: none; }
-        .teach-list li { margin-bottom: 4px; font-size: 14.5px; }
+        .teach-card {
+            padding: 16px 18px;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            background: linear-gradient(180deg, #fff 0%, #fafafa 100%);
+            box-shadow: 0 8px 22px rgba(0, 0, 0, 0.04);
+        }
+
+        .teach-head {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            gap: 16px;
+            margin-bottom: 12px;
+        }
+
+        .teach-title {
+            font-size: 15.5px;
+            font-weight: 600;
+        }
+
+        .teach-note {
+            font-size: 13px;
+            color: #777;
+            white-space: nowrap;
+        }
+
+        .teach-list {
+            display: grid;
+            gap: 9px;
+            list-style: none;
+        }
+
+        .teach-item {
+            display: grid;
+            grid-template-columns: 96px minmax(0, 1fr) auto;
+            gap: 12px;
+            align-items: baseline;
+            padding-top: 9px;
+            border-top: 1px solid #f0f0f0;
+        }
+
+        .teach-code {
+            display: inline-flex;
+            justify-content: center;
+            width: 86px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            background: #eef4f8;
+            color: #2471a3;
+            font-size: 12.5px;
+            font-weight: 600;
+            letter-spacing: 0.2px;
+        }
+
+        .teach-course {
+            min-width: 0;
+            font-size: 14.5px;
+            color: #333;
+        }
+
+        .teach-term {
+            justify-self: end;
+            font-size: 14px;
+            color: #666;
+            white-space: nowrap;
+        }
 
         /* ── Professional Activities ── */
-        .activity-section { margin-bottom: 16px; }
-        .activity-section h3 { font-size: 14.5px; font-weight: 600; margin-bottom: 4px; }
-        .activity-section p  { font-size: 14px; color: #444; }
+        .service-card {
+            padding: 15px 18px;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            background: linear-gradient(180deg, #fff 0%, #fafafa 100%);
+            box-shadow: 0 8px 22px rgba(0, 0, 0, 0.04);
+        }
+
+        .service-row {
+            display: grid;
+            grid-template-columns: 190px minmax(0, 1fr);
+            gap: 16px;
+            align-items: baseline;
+            padding: 10px 0;
+        }
+
+        .service-row:first-child {
+            padding-top: 0;
+        }
+
+        .service-row:last-child {
+            padding-bottom: 0;
+        }
+
+        .service-row + .service-row {
+            border-top: 1px solid #f0f0f0;
+        }
+
+        .service-label {
+            font-size: 13.5px;
+            font-weight: 600;
+            color: #222;
+        }
+
+        .service-text {
+            font-size: 14.2px;
+            color: #444;
+            line-height: 1.55;
+        }
 
         /* ── Responsive ── */
         @media (max-width: 600px) {
-            .header { flex-direction: column; align-items: center; text-align: center; }
+            .container { padding: 24px 16px 64px; }
+            .header { grid-template-columns: 1fr; justify-items: center; padding: 18px; }
+            .profile-side { width: 100%; max-width: 240px; padding-bottom: 0; }
+            .header-bio { width: 100%; }
+            .header-bio h1,
+            .header-bio .position { text-align: center; }
+            .header-bio .position,
+            .header-bio .bio,
+            .contact-note,
+            .news-text { overflow-wrap: anywhere; }
+            .contact-row,
             .header-links { justify-content: center; }
-            .pub-item { flex-direction: column; gap: 6px; }
-            .pub-venue-col { width: auto; }
+            .contact-chip { max-width: 100%; white-space: normal; }
+            .news-card { padding: 12px 14px; }
+            .news-list li { grid-template-columns: 1fr; gap: 3px; padding: 8px 0; }
+            .news-date { width: auto; }
+            .pub-item { grid-template-columns: 1fr; gap: 10px; padding: 15px; }
+            .pub-venue-col { display: flex; flex-wrap: wrap; gap: 6px; }
             .exp-card { grid-template-columns: 1fr; gap: 10px; padding: 15px; }
             .exp-logo { width: 56px; height: 56px; }
             .exp-row { grid-template-columns: 1fr; gap: 2px; }
             .exp-location,
             .exp-date { justify-self: start; }
+            .teach-head { display: grid; gap: 2px; }
+            .teach-note { white-space: normal; }
+            .teach-item { grid-template-columns: 1fr; gap: 4px; }
+            .teach-code { justify-content: flex-start; width: fit-content; }
+            .teach-term { justify-self: start; }
+            .service-row { grid-template-columns: 1fr; gap: 3px; }
+            .service-card { padding: 14px 15px; }
         }
     </style>
 </head>
@@ -335,139 +649,166 @@
 
     <!-- ══ Header ══ -->
     <header class="header">
-        <div class="header-photo">
-            <img src="assets/zf-1x1.png" alt="Fan Zhang">
+        <div class="profile-side">
+            <div class="header-photo">
+                <img src="assets/zf-1x1.png" alt="Fan Zhang">
+            </div>
+            <div class="profile-panel">
+                <div class="header-links">
+                    <a href="mailto:fzhang25@cse.cuhk.edu.hk">Email</a>
+                    <a href="https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&amp;hl=zh-CN&amp;oi=ao" target="_blank">Google Scholar</a>
+                    <a href="https://github.com/zfkarl" target="_blank">GitHub</a>
+                </div>
+            </div>
         </div>
         <div class="header-bio">
             <h1>Fan Zhang (章帆)</h1>
             <p class="position">CSE Ph.D. Student @ The Chinese University of Hong Kong</p>
             <div class="bio">
-                <p>I'm currently a first-year Ph.D. student at <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)</a>, supervised by <a href="https://scholar.google.com/citations?user=OFdytjoAAAAJ&hl=zh-CN">Prof. Pheng-Ann Heng</a>. Previously, I gained valuable experience as a research intern at <a href="https://tongyi.aliyun.com/welcome">Alibaba Group</a> and <a href="https://jarvislab.tencent.com/index-en.html">Tencent</a>.</p>
+                <p>I'm currently a first-year Ph.D. student at <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)</a>, supervised by <a href="https://scholar.google.com/citations?user=OFdytjoAAAAJ&amp;hl=zh-CN">Prof. Pheng-Ann Heng</a>. Previously, I gained valuable experience as a research intern at <a href="https://tongyi.aliyun.com/welcome">Alibaba Group</a> and <a href="https://jarvislab.tencent.com/index-en.html">Tencent</a>.</p>
                 <p>My research interests lie at the intersection of <strong>Large Language Models (LLMs)</strong>, <strong>Multimodal AI</strong>, and <strong>Agentic Systems</strong>, with an emphasis on post-training, evaluation, deep research, and their applications.</p>
-                <p><strong>Email:</strong> fzhang25@cse.cuhk.edu.hk, <strong>Wechat:</strong> ZF_Karl</p>
-                <p style="color:red;">Please feel free to contact me for communication and collaboration.</p>
             </div>
-            <div class="header-links">
-                <a href="mailto:fzhang25@cse.cuhk.edu.hk">Email</a>
-                <a href="https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao" target="_blank">Google Scholar</a>
-                <a href="https://github.com/zfkarl" target="_blank">GitHub</a>
+            <div class="contact-row">
+                <span class="contact-chip"><strong>Email:</strong> fzhang25@cse.cuhk.edu.hk</span>
+                <span class="contact-chip"><strong>Wechat:</strong> ZF_Karl</span>
             </div>
+            <p class="contact-note">Please feel free to contact me for communication and collaboration.</p>
         </div>
     </header>
 
     <!-- ══ News ══ -->
     <section id="news">
         <h2>News</h2>
-        <ul class="news-list">
-            <li><strong>2026.05</strong>: Two papers are accepted by ICML 2026. Congrats to all.</li>
-            <li><strong>2026.01</strong>: Two papers are accepted by ICLR 2026. Congrats to all.</li>
-            <li><strong>2025.11</strong>: Two papers are accepted by AAAI 2026. Congrats to all.</li>
-            <li><strong>2025.09</strong>: One paper is accepted by NeurIPS 2025 Datasets and Benchmarks Track.</li>
-            <li><strong>2025.08</strong>: I join CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng.</li>
-            <li><strong>2025.04</strong>: I start my internship at Tongyi Lab, Alibaba Group.</li>
-            <li><strong>2024.08</strong>: I start my internship at Tencent YouTu Lab.</li>
-        </ul>
+        <div class="news-card">
+            <ul class="news-list">
+                <li><span class="news-date">2026.05</span><span class="news-text">Two papers are accepted by ICML 2026. Congrats to all.</span></li>
+                <li><span class="news-date">2026.01</span><span class="news-text">Two papers are accepted by ICLR 2026. Congrats to all.</span></li>
+                <li><span class="news-date">2025.11</span><span class="news-text">Two papers are accepted by AAAI 2026. Congrats to all.</span></li>
+                <li><span class="news-date">2025.09</span><span class="news-text">One paper is accepted by NeurIPS 2025 Datasets and Benchmarks Track.</span></li>
+                <li><span class="news-date">2025.08</span><span class="news-text">I join CUHK CSE Department as a PhD student, under the supervision of Prof. Pheng-Ann Heng.</span></li>
+                <li><span class="news-date">2025.04</span><span class="news-text">I start my internship at Tongyi Lab, Alibaba Group.</span></li>
+                <li><span class="news-date">2024.08</span><span class="news-text">I start my internship at Tencent YouTu Lab.</span></li>
+            </ul>
+        </div>
     </section>
 
     <!-- ══ Selected Publications ══ -->
     <section id="publications">
         <h2>Selected Publications</h2>
-        <p style="font-size:13px;color:#777;margin-bottom:16px;">For full publications, please refer to my <a href="https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao">Google Scholar</a>.</p>
+        <p class="pub-intro">For full publications, please refer to my <a href="https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&amp;hl=zh-CN&amp;oi=ao">Google Scholar</a>.</p>
         <ul class="pub-list">
 
             <li class="pub-item">
-                <div class="pub-venue-col"><span class="venue venue-ICLR">ICLR</span><br><span style="font-size:11px;color:#888">2026</span></div>
+                <div class="pub-venue-col"><span class="venue venue-ICLR">ICLR</span><span class="pub-year">2026</span></div>
                 <div class="pub-body">
                     <div class="pub-title"><a href="https://mme-emotion.github.io/">MME-Emotion: A Holistic Evaluation Benchmark for Emotional Intelligence in Multimodal Large Language Models</a></div>
                     <div class="pub-authors"><strong>Fan Zhang</strong>, Zebang Cheng, Chong Deng, Haoxuan Li, Zheng Lian, Qian Chen, Huadai Liu, Wen Wang, YiFan Zhang, Renrui Zhang, Ziyu Guo, Zhihong Zhu, Hao Wu, Haixin Wang, Yefeng Zheng, Xiaojiang Peng, Xian Wu, Kun Wang, Xiangang Li, Jieping Ye, Pheng-Ann Heng</div>
                     <div class="pub-venue-line">International Conference on Learning Representations (ICLR), 2026</div>
-                    <div class="pub-note">CCF Rank A</div>
-                    <div class="pub-links">
-                        <a class="btn" href="https://mme-emotion.github.io/">project</a>
+                    <div class="pub-actions">
+                        <div class="pub-note">CCF Rank A</div>
+                        <div class="pub-links">
+                            <a class="btn" href="https://mme-emotion.github.io/">project</a>
+                        </div>
                     </div>
                 </div>
             </li>
 
             <li class="pub-item">
-                <div class="pub-venue-col"><span class="venue venue-NeurIPS">NeurIPS</span><br><span style="font-size:11px;color:#888">2025</span></div>
+                <div class="pub-venue-col"><span class="venue venue-NeurIPS">NeurIPS</span><span class="pub-year">2025</span></div>
                 <div class="pub-body">
                     <div class="pub-title"><a href="https://arxiv.org/abs/2505.07865">CellVerse: Do Large Language Models Really Understand Cell Biology?</a></div>
                     <div class="pub-authors"><strong>Fan Zhang</strong>, Tianyu Liu, Zhihong Zhu, Hao Wu, Haixin Wang, Donghao Zhou, Yefeng Zheng, Kun Wang, Xian Wu, Pheng-Ann Heng</div>
                     <div class="pub-venue-line">Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2025</div>
-                    <div class="pub-note">CCF Rank A</div>
-                    <div class="pub-links">
-                        <a class="btn" href="https://github.com/zfkarl/CellVerse">project</a>
+                    <div class="pub-actions">
+                        <div class="pub-note">CCF Rank A</div>
+                        <div class="pub-links">
+                            <a class="btn" href="https://github.com/zfkarl/CellVerse">project</a>
+                        </div>
                     </div>
                 </div>
             </li>
 
             <li class="pub-item">
-                <div class="pub-venue-col"><span class="venue venue-ACL">ACL</span><br><span style="font-size:11px;color:#888">2025</span></div>
+                <div class="pub-venue-col"><span class="venue venue-ACL">ACL</span><span class="pub-year">2025</span></div>
                 <div class="pub-body">
                     <div class="pub-title"><a href="https://aclanthology.org/2025.acl-long.26/">A Survey on Foundation Language Models for Single-cell Biology</a></div>
                     <div class="pub-authors"><strong>Fan Zhang</strong>, Hao Chen, Zhihong Zhu, Ziheng Zhang, Zhenxi Lin, Ziyue Qiao, Yefeng Zheng, Xian Wu</div>
                     <div class="pub-venue-line">Annual Meeting of the Association for Computational Linguistics (ACL), 2025</div>
-                    <div class="pub-note">CCF Rank A</div>
+                    <div class="pub-actions">
+                        <div class="pub-note">CCF Rank A</div>
+                    </div>
                 </div>
             </li>
 
             <li class="pub-item">
-                <div class="pub-venue-col"><span class="venue venue-AAAI">AAAI</span><br><span style="font-size:11px;color:#888">2025</span></div>
+                <div class="pub-venue-col"><span class="venue venue-AAAI">AAAI</span><span class="pub-year">2025</span></div>
                 <div class="pub-body">
                     <div class="pub-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33441">DREAM: Decoupled Discriminative Learning with Bigraph-aware Alignment for Semi-supervised 2D-3D Cross-modal Retrieval</a></div>
                     <div class="pub-authors"><strong>Fan Zhang</strong>, Changhu Wang, Zebang Cheng, Xiaojiang Peng, Dongjie Wang, Yijia Xiao, Chong Chen, Xian-Sheng Hua, Xiao Luo</div>
                     <div class="pub-venue-line">Annual AAAI Conference on Artificial Intelligence (AAAI), 2025</div>
-                    <div class="pub-note">CCF Rank A</div>
+                    <div class="pub-actions">
+                        <div class="pub-note">CCF Rank A</div>
+                    </div>
                 </div>
             </li>
 
             <li class="pub-item">
-                <div class="pub-venue-col"><span class="venue venue-NeurIPS">NeurIPS</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-venue-col"><span class="venue venue-NeurIPS">NeurIPS</span><span class="pub-year">2024</span></div>
                 <div class="pub-body">
                     <div class="pub-title"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/47f30d67bce3e9824928267e9355420f-Paper-Conference.pdf">Semi-supervised Knowledge Transfer Across Multi-omic Single-cell Data</a></div>
                     <div class="pub-authors"><strong>Fan Zhang</strong>, Tianyu Liu, Zihao Chen, Xiaojiang Peng, Chong Chen, Xian-Sheng Hua, Xiao Luo, Hongyu Zhao</div>
                     <div class="pub-venue-line">Conference on Neural Information Processing Systems (NeurIPS), 2024</div>
-                    <div class="pub-note">CCF Rank A</div>
+                    <div class="pub-actions">
+                        <div class="pub-note">CCF Rank A</div>
+                    </div>
                 </div>
             </li>
 
             <li class="pub-item">
-                <div class="pub-venue-col"><span class="venue venue-TPAMI">TPAMI</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-venue-col"><span class="venue venue-TPAMI">TPAMI</span><span class="pub-year">2024</span></div>
                 <div class="pub-body">
                     <div class="pub-title"><a href="https://ieeexplore.ieee.org/document/10553262">HOPE: A Hierarchical Perspective for Semi-supervised 2D-3D Cross-Modal Retrieval</a></div>
                     <div class="pub-authors"><strong>Fan Zhang</strong>, Hang Zhou, Xian-Sheng Hua, Chong Chen, Xiao Luo</div>
                     <div class="pub-venue-line">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</div>
-                    <div class="pub-note">CCF Rank A, JCR Q1, IF=23.6</div>
+                    <div class="pub-actions">
+                        <div class="pub-note">CCF Rank A, JCR Q1, IF=23.6</div>
+                    </div>
                 </div>
             </li>
 
             <li class="pub-item">
-                <div class="pub-venue-col"><span class="venue venue-TIP">TIP</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-venue-col"><span class="venue venue-TIP">TIP</span><span class="pub-year">2024</span></div>
                 <div class="pub-body">
                     <div class="pub-title"><a href="https://ieeexplore.ieee.org/document/10547662">FATE: Learning Effective Binary Descriptors with Group Fairness</a></div>
                     <div class="pub-authors"><strong>Fan Zhang</strong>, Chong Chen, Xian-Sheng Hua, Xiao Luo</div>
                     <div class="pub-venue-line">IEEE Transactions on Image Processing (TIP), 2024</div>
-                    <div class="pub-note">CCF Rank A, JCR Q1, IF=10.6</div>
+                    <div class="pub-actions">
+                        <div class="pub-note">CCF Rank A, JCR Q1, IF=10.6</div>
+                    </div>
                 </div>
             </li>
 
             <li class="pub-item">
-                <div class="pub-venue-col"><span class="venue venue-NAACL">NAACL</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-venue-col"><span class="venue venue-NAACL">NAACL</span><span class="pub-year">2024</span></div>
                 <div class="pub-body">
                     <div class="pub-title"><a href="https://arxiv.org/pdf/2405.11496">DEMO: A Statistical Perspective for Efficient Image-Text Matching</a></div>
                     <div class="pub-authors"><strong>Fan Zhang</strong>, Xian-Sheng Hua, Chong Chen, Xiao Luo</div>
                     <div class="pub-venue-line">North American Chapter of the Association for Computational Linguistics (NAACL), 2024</div>
-                    <div class="pub-note">CCF Rank B</div>
+                    <div class="pub-actions">
+                        <div class="pub-note">CCF Rank B</div>
+                    </div>
                 </div>
             </li>
 
             <li class="pub-item">
-                <div class="pub-venue-col"><span class="venue venue-CVPR">CVPR</span><br><span style="font-size:11px;color:#888">2024</span></div>
+                <div class="pub-venue-col"><span class="venue venue-CVPR">CVPR</span><span class="pub-year">2024</span></div>
                 <div class="pub-body">
                     <div class="pub-title"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Fine-grained_Prototypical_Voting_with_Heterogeneous_Mixup_for_Semi-supervised_2D-3D_Cross-modal_CVPR_2024_paper.pdf">Fine-grained Prototypical Voting with Heterogeneous Mixup for Semi-supervised 2D-3D Cross-modal Retrieval</a></div>
                     <div class="pub-authors"><strong>Fan Zhang</strong>, Xian-Sheng Hua, Chong Chen, Xiao Luo</div>
                     <div class="pub-venue-line">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024</div>
-                    <div class="pub-note">CCF Rank A</div>
+                    <div class="pub-actions">
+                        <div class="pub-note">CCF Rank A</div>
+                    </div>
                 </div>
             </li>
 
@@ -532,34 +873,42 @@
     <!-- ══ Teaching ══ -->
     <section id="teaching">
         <h2>Teaching</h2>
-        <!--
-        <p style="font-size:14.5px;margin-bottom:12px;">I served as teaching assistant for the following courses:</p>
-        <ul class="teach-list">
-            <li>ENGG1110D: Problem Solving By Programming, Fall 2025 </li>
-            <li>CSCI2100A: Data Structure, Spring 2026</li>
-        </ul>
-        -->
-        <div class="activity-section">
-            <h3>I served as teaching assistant for the following courses:</h3>
-            <p>ENGG1110D: Problem Solving By Programming, Fall 2025</p>
-            <p>CSCI2100A: Data Structure, Spring 2026</p>
+        <div class="teach-card">
+            <div class="teach-head">
+                <div class="teach-title">Teaching Assistant</div>
+                <div class="teach-note">The Chinese University of Hong Kong</div>
+            </div>
+            <ul class="teach-list">
+                <li class="teach-item">
+                    <span class="teach-code">ENGG1110D</span>
+                    <span class="teach-course">Problem Solving By Programming</span>
+                    <span class="teach-term">Fall 2025</span>
+                </li>
+                <li class="teach-item">
+                    <span class="teach-code">CSCI2100A</span>
+                    <span class="teach-course">Data Structure</span>
+                    <span class="teach-term">Spring 2026</span>
+                </li>
+            </ul>
         </div>
     </section>
 
     <!-- ══ Professional Activities ══ -->
     <section id="service">
         <h2>Professional Activities</h2>
-        <div class="activity-section">
-            <h3>Conference Reviewer / PC Member</h3>
-            <p>ICML, ICLR, NeurIPS, CVPR, ICCV, KDD, AAAI, CIKM, ACM MM, ACL ARR</p>
-        </div>
-        <div class="activity-section">
-            <h3>Journal Reviewer</h3>
-            <p>IEEE TKDE, IEEE TNNLS, IEEE TAFFC, IEEE TCSVT, IEEE TMM, PLOS ONE</p>
-        </div>
-        <div class="activity-section">
-            <h3>Program Chair</h3>
-            <p>AAAI 2026 Bridge: Logical and Symbolic Reasoning in Language Models</p>
+        <div class="service-card">
+            <div class="service-row">
+                <div class="service-label">Conference Reviewer</div>
+                <div class="service-text">ICML, ICLR, NeurIPS, CVPR, ICCV, KDD, AAAI, CIKM, ACM MM, ACL ARR</div>
+            </div>
+            <div class="service-row">
+                <div class="service-label">Journal Reviewer</div>
+                <div class="service-text">IEEE TKDE, IEEE TNNLS, IEEE TAFFC, IEEE TCSVT, IEEE TMM, PLOS ONE</div>
+            </div>
+            <div class="service-row">
+                <div class="service-label">Program Chair</div>
+                <div class="service-text">AAAI 2026 Bridge: Logical and Symbolic Reasoning in Language Models</div>
+            </div>
         </div>
     </section>
 
