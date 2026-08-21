@@ -97,6 +97,33 @@ h1 {
   text-align: center;
 }
 
+.research-directions {
+  margin: 0 0 12px;
+  padding: 0;
+  list-style: none;
+}
+
+.research-directions li {
+  padding: 5px 0 5px 13px;
+  border-left: 2px solid var(--line);
+  color: #3c4650;
+  font-size: 14px;
+}
+
+.research-directions li + li {
+  margin-top: 3px;
+}
+
+.research-directions li strong {
+  color: var(--navy);
+}
+
+.direction-works {
+  display: block;
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .contact {
   margin-top: 18px;
   color: #3c4650;
@@ -479,6 +506,7 @@ footer p {
   }
 
   .intro-copy > p:not(.role),
+  .research-directions,
   .profile-links {
     grid-column: 1;
   }

@@ -7,7 +7,7 @@
   <meta name="description" content="Fan Zhang is a Ph.D. student at CUHK working on large language models, multimodal reasoning, and agentic systems.">
   <title>Fan Zhang (章帆)</title>
   <link rel="icon" type="image/png" href="assets/zf-1x1.png">
-  <link rel="stylesheet" href="main.css?v=20260807-1">
+  <link rel="stylesheet" href="main.css?v=20260821-1">
 </head>
 
 <body>
@@ -28,9 +28,64 @@
 
         <p>
           My research interests lie at the intersection of <strong>Large Language Models (LLMs)</strong>,
-          <strong>Multimodal Reasoning</strong>, and <strong>Agentic Systems</strong>, with an emphasis on
-          post-training, evaluation, deep research, and their applications.
+          <strong>Multimodal Reasoning</strong>, and <strong>Agentic Systems</strong>. Broadly, I work towards
+          multimodal agents that perceive continuous, real-world signals, actively seek and verify evidence,
+          and act as productivity tools rather than passive chatbots. My work spans the full loop of building
+          such systems: designing benchmarks that reveal what frontier models cannot yet do, developing
+          post-training recipes that teach them to reason and use tools, and studying the multimodal
+          representations that underpin both.
         </p>
+
+        <ul class="research-directions">
+          <li>
+            <strong>Multimodal Agents &amp; Deep Research.</strong>
+            Agents that iteratively gather and integrate evidence across videos, images, and the open web.
+            <span class="direction-works">
+              <a href="https://arxiv.org/abs/2608.14718">VideoGAIA</a>,
+              <a href="https://arxiv.org/pdf/2606.07689">Struct-Searcher</a>,
+              <a href="https://arxiv.org/abs/2607.07820">DeepSearch-World</a>,
+              <a href="https://arxiv.org/abs/2606.09826">OmniGameArena</a>
+            </span>
+          </li>
+          <li>
+            <strong>Post-Training &amp; Agentic Reinforcement Learning.</strong>
+            Distillation and RL that turn capable base models into reliable long-horizon tool users.
+            <span class="direction-works">
+              <a href="https://arxiv.org/abs/2607.14777">SEED</a>,
+              <a href="https://arxiv.org/abs/2606.26790">OPID</a>,
+              <a href="https://arxiv.org/abs/2605.22177">Maestro</a>,
+              <a href="https://arxiv.org/abs/2605.06126">AffectGPT-RL</a>
+            </span>
+          </li>
+          <li>
+            <strong>Multimodal Affective Intelligence.</strong>
+            Measuring and improving how models perceive emotion, expression, and human preference.
+            <span class="direction-works">
+              <a href="https://mme-emotion.github.io/">MME-Emotion</a>,
+              <a href="https://arxiv.org/abs/2507.04278">EmoPrefer</a>,
+              <a href="https://arxiv.org/abs/2511.00389">UniFER</a>,
+              <a href="https://arxiv.org/abs/2508.01318">AffectGPT-R1</a>
+            </span>
+          </li>
+          <li>
+            <strong>Multimodal Representation Learning.</strong>
+            Cross-modal alignment, retrieval, and adaptation under limited supervision.
+            <span class="direction-works">
+              <a href="https://ieeexplore.ieee.org/document/10553262">HOPE</a>,
+              <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33441">DREAM</a>,
+              <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Fine-grained_Prototypical_Voting_with_Heterogeneous_Mixup_for_Semi-supervised_2D-3D_Cross-modal_CVPR_2024_paper.pdf">FPV</a>,
+              <a href="https://arxiv.org/pdf/2405.11496">DEMO</a>
+            </span>
+          </li>
+          <li>
+            <strong>Foundation Models for Science.</strong>
+            Whether and how LLMs can reason over biological data.
+            <span class="direction-works">
+              <a href="https://arxiv.org/abs/2505.07865">CellVerse</a>,
+              <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/47f30d67bce3e9824928267e9355420f-Paper-Conference.pdf">Multi-omic Knowledge Transfer</a>
+            </span>
+          </li>
+        </ul>
 
         <p class="contact" id="wechat-contact"><strong>Email:</strong> fzhang25 AT cse DOT cuhk DOT edu DOT hk &nbsp;·&nbsp; <strong>WeChat:</strong> ZF_Karl</p>
         <p class="collaboration-note">I am always open to communication and collaboration. Please feel free to get in touch.</p>
@@ -76,13 +131,22 @@
     <section id="publications">
       <h2>Selected Publications <span class="heading-note">(<a href="https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&amp;hl=zh-CN&amp;oi=ao">Full Publications</a>)</span></h2>
       <p class="section-lead">
-        My name is shown in <strong>bold</strong>.
+        My name is shown in <strong>bold</strong>; * denotes equal contribution.
         <a class="scholar-badge-link" href="https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&amp;hl=zh-CN&amp;oi=ao" target="_blank" rel="noopener" aria-label="Google Scholar citation count">
           <img class="scholar-badge" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DKbC_-7cAAAAJ%26hl%3Den&amp;search=%3Ctd+class%3D%22gsc_rsb_std%22%3E%28%5B%5E%3C%5D%2B%29%3C%2Ftd%3E&amp;replace=%241&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=google%20citations&amp;cacheSeconds=3600" alt="Google Scholar citations">
         </a>
       </p>
 
       <ol class="publication-list">
+        <li class="publication">
+          <div class="publication-heading">
+            <a href="https://arxiv.org/abs/2608.14718"><strong>VideoGAIA: A Benchmark for General AI Assistants on Agentic Video Understanding</strong></a>
+            <span class="venue">arXiv 2026</span>
+          </div>
+          <p><strong>Fan Zhang</strong>*, Guangming Yao*, Jinyang Wu, Hao Wu, Zheng Lian, Xinyu Geng, Jingdong Chen, Yi Yuan, Pheng-Ann Heng</p>
+          <p><em>arXiv preprint</em>, 2026. [<a href="https://arxiv.org/abs/2608.14718">Paper</a>] [<a href="https://github.com/zfkarl/VideoGAIA">Code</a>] [<a href="https://huggingface.co/datasets/Karl28/VideoGAIA">Data</a>]</p>
+        </li>
+
         <li class="publication">
           <div class="publication-heading">
             <a href="https://arxiv.org/abs/2607.14777"><strong>SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning</strong></a>
