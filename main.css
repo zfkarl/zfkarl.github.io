@@ -104,14 +104,10 @@ h1 {
 }
 
 .research-directions li {
-  padding: 5px 0 5px 13px;
+  padding: 3px 0 3px 13px;
   border-left: 2px solid var(--line);
   color: #3c4650;
   font-size: 14px;
-}
-
-.research-directions li + li {
-  margin-top: 3px;
 }
 
 .research-directions li strong {
@@ -119,9 +115,12 @@ h1 {
 }
 
 .direction-works {
-  display: block;
   color: var(--muted);
   font-size: 13px;
+}
+
+.direction-works::before {
+  content: "— ";
 }
 
 .contact {
