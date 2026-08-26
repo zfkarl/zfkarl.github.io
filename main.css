@@ -97,28 +97,6 @@ h1 {
   text-align: center;
 }
 
-.research-directions {
-  margin: 0 0 12px;
-  padding: 0;
-  list-style: none;
-}
-
-.research-directions li {
-  padding: 3px 0 3px 13px;
-  border-left: 2px solid var(--line);
-  color: #3c4650;
-  font-size: 14px;
-}
-
-.research-directions li strong {
-  color: var(--navy);
-}
-
-.direction-works {
-  color: var(--muted);
-  font-size: 13px;
-}
-
 .contact {
   margin-top: 18px;
   color: #3c4650;
@@ -321,6 +299,30 @@ h2 {
   border-bottom: 0;
 }
 
+/* Numbered entries for the Selected Publications list only. */
+#publications .publication-list {
+  counter-reset: publication;
+}
+
+#publications .publication {
+  position: relative;
+  counter-increment: publication;
+  padding-left: 34px;
+}
+
+#publications .publication::before {
+  content: counter(publication) ".";
+  position: absolute;
+  top: 13px;
+  left: 4px;
+  width: 24px;
+  color: var(--muted);
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.5;
+  text-align: right;
+}
+
 .publication-heading {
   display: flex;
   gap: 14px;
@@ -501,7 +503,6 @@ footer p {
   }
 
   .intro-copy > p:not(.role),
-  .research-directions,
   .profile-links {
     grid-column: 1;
   }
@@ -520,6 +521,15 @@ footer p {
 
   .publication-heading {
     display: block;
+  }
+
+  #publications .publication {
+    padding-left: 28px;
+  }
+
+  #publications .publication::before {
+    left: 0;
+    width: 22px;
   }
 
   .venue {
