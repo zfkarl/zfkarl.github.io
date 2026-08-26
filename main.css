@@ -299,30 +299,6 @@ h2 {
   border-bottom: 0;
 }
 
-/* Numbered entries for the Selected Publications list only. */
-#publications .publication-list {
-  counter-reset: publication;
-}
-
-#publications .publication {
-  position: relative;
-  counter-increment: publication;
-  padding-left: 34px;
-}
-
-#publications .publication::before {
-  content: counter(publication) ".";
-  position: absolute;
-  top: 13px;
-  left: 4px;
-  width: 24px;
-  color: var(--muted);
-  font-size: 14px;
-  font-variant-numeric: tabular-nums;
-  line-height: 1.5;
-  text-align: right;
-}
-
 .publication-heading {
   display: flex;
   gap: 14px;
@@ -521,15 +497,6 @@ footer p {
 
   .publication-heading {
     display: block;
-  }
-
-  #publications .publication {
-    padding-left: 28px;
-  }
-
-  #publications .publication::before {
-    left: 0;
-    width: 22px;
   }
 
   .venue {
