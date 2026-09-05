@@ -48,7 +48,7 @@ h1 {
 
 h3 {
   margin: 1.1em 0 0.4em;
-  font-size: 1.17em;
+  font-size: 1.25em;
 }
 
 h3.tight {
@@ -210,7 +210,7 @@ div.pubnote {
 /* Sub-heading within a section, e.g. the publication groups. */
 div.title {
   padding-bottom: 5px;
-  font-size: 1.08em;
+  font-size: 1.15em;
   font-weight: 700;
 }
 
