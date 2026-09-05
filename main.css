@@ -279,7 +279,8 @@ span.jw {
 img.scholar-badge {
   height: 18px;
   width: auto;
-  vertical-align: -4px;
+  margin-left: 4px;
+  vertical-align: -3px;
 }
 
 /* Experience: reuses the publication row, with a logo instead of a thumbnail. */
