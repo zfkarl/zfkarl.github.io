@@ -34,6 +34,7 @@ h4,
 h5,
 h6,
 div.ftheader,
+div.title,
 div.venue,
 span.highlight {
   font-weight: 600;
@@ -203,7 +204,16 @@ div.profile-links {
 }
 
 div.pubnote {
-  margin-bottom: 14px;
+  margin-bottom: 10px;
+}
+
+/* Sub-heading within a section, e.g. the publication groups. */
+div.title {
+  padding-bottom: 4px;
+}
+
+div.title.spaced {
+  padding-top: 14px;
 }
 
 /* News */
