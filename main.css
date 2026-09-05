@@ -278,18 +278,12 @@ div.publication.experience div.img {
   text-align: left;
 }
 
+/* Shared box so logos of differing aspect ratios share one alignment axis. */
 div.publication.experience div.img img {
-  max-width: 64px;
-  max-height: 64px;
-  width: auto;
-  height: auto;
+  width: 76px;
+  height: 66px;
+  object-fit: contain;
   box-shadow: none;
-}
-
-/* Artwork with generous built-in padding, scaled up so the mark matches the others. */
-div.publication.experience div.img img.inset {
-  max-width: 88px;
-  max-height: 88px;
 }
 
 /* Footer */
