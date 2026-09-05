@@ -209,11 +209,13 @@ div.pubnote {
 
 /* Sub-heading within a section, e.g. the publication groups. */
 div.title {
-  padding-bottom: 4px;
+  padding-bottom: 5px;
+  font-size: 1.08em;
+  font-weight: 700;
 }
 
 div.title.spaced {
-  padding-top: 14px;
+  padding-top: 16px;
 }
 
 /* News */
