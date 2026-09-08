@@ -222,7 +222,7 @@ div.newsbox::-webkit-scrollbar-thumb {
   background: #c3ccd4;
 }
 
-/* Publications and experience entries */
+/* Publications */
 div.publication {
   padding-top: 0;
   padding-bottom: 20px;
@@ -269,22 +269,6 @@ img.scholar-badge {
   width: auto;
   margin-left: 4px;
   vertical-align: -3px;
-}
-
-/* Experience: reuses the publication row, with a logo instead of a thumbnail. */
-div.publication.experience div.img {
-  width: 110px;
-  padding-top: 6px;
-  padding-right: 0;
-  text-align: left;
-}
-
-/* Shared box so logos of differing aspect ratios share one alignment axis. */
-div.publication.experience div.img img {
-  width: 76px;
-  height: 66px;
-  object-fit: contain;
-  box-shadow: none;
 }
 
 /* Footer */
@@ -343,10 +327,6 @@ div.footer {
     max-width: 100%;
     text-align: left;
   }
-
-  div.publication.experience div.img {
-    display: none;
-  }
 }
 
 @media only screen and (min-width: 600px) {
@@ -364,10 +344,6 @@ div.footer {
 
   div.publication div.img + div.text {
     max-width: 70%;
-  }
-
-  div.publication.experience div.img + div.text {
-    max-width: calc(100% - 110px);
   }
 }
 
