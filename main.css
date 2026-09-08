@@ -202,6 +202,19 @@ div.profile-links {
   margin-top: 12px;
 }
 
+a.company-link {
+  white-space: nowrap;
+}
+
+a.company-link img {
+  display: inline-block;
+  width: 1.35em;
+  height: 1.35em;
+  margin-right: 0.22em;
+  object-fit: contain;
+  vertical-align: -0.32em;
+}
+
 div.pubnote {
   margin-bottom: 10px;
 }
