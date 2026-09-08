@@ -198,6 +198,22 @@ div.heading div.img img {
   display: block;
 }
 
+div.institution-logo {
+  margin: 7px 0 6px;
+  line-height: 0;
+}
+
+div.institution-logo a {
+  display: inline-block;
+}
+
+div.institution-logo img {
+  display: block;
+  width: 285px;
+  max-width: 100%;
+  height: auto;
+}
+
 div.profile-links {
   margin-top: 12px;
 }
@@ -349,6 +365,8 @@ div.footer {
 
   div.heading div.info {
     padding-right: calc(40% - 350px);
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   div.publication div.img {
